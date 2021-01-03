@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BMI cal</string>
+    <string name="todo">TODO</string>
+    <string name="developer_groups">DEVELOPER GROUPS</string>
+    <string name="bmi_cal">BMI CAL</string>
+    <string name="textview">TextView</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="button">Button</string>
+    <string name="ok">OK</string>
+    <string name="tv">\nHere are some healthy ways to gain weight when you\'re underweight:\n
+        \nEat more frequently, When you underweight you may feel full faster. ...\n
+        \nChoose nutrient-rich foods. ...\n
+        Try smoothies and shakes. ...\n
+        Watch when you drink. ...\n
+        Make every bite count. ...\n
+        Top it off. ...
+        \nHave an occasional treat. ...
+        \nExercise</string>
+</resources>
