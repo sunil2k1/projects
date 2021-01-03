@@ -1,0 +1,952 @@
+<resources>
+    <string name="app_name">Wanders</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="tvm">   MAMALAPURAM-Shore temple</string>
+    <string name="mamallapuram">MAMALLAPURAM-SHORE TEMPLE</string>
+    <string name="des_mamalalpuram">History:\n\nNeolithic burial urn, cairn circles and jars with burials dating to the 1st century BCE have been discovered near Mamallapuram. The Sangam age poem Perumpāṇāṟṟuppaṭai relates the rule of King Thondaiman Ilam Thiraiyar at Kanchipuram of the Tondai Nadu port Nirppeyyaru which scholars identify with the present-day Mamallapuram. Chinese coins and Roman coins of Theodosius I in the 4th century CE have been found at Mamallapuram revealing the port as an active hub of global trade in the late classical period. Two Pallava coins bearing legends read as Srihari and Srinidhi have been found at Mamallapuram. The Pallava kings ruled Mamallapuram from Kanchipuram; the capital of the Pallava dynasty from the 3rd century to 9th century CE, and used the port to launch trade and diplomatic missions to Sri Lanka and Southeast Asia.\n\nMamallapuram Shore Temple View from beach
+An 8th-century Tamil text written by Thirumangai Alvar described this place as Sea Mountain ‘where the ships rode at anchor bent to the point of breaking laden as they were with wealth, big trunked elephants and gems of nine varieties in heaps’./n/nThe temples of Mamallapuram, portraying events described in the Mahabharata, were built largely during the reigns of King Narasimhavarman and his successor Rajasimhavarman and show the movement from rock-cut architecture to structural building. The city of Mamallapuram was founded by the Pallava king Narasimhavarman I in the 7th century AD.[5] The mandapa or pavilions and the rathas or shrines shaped as temple chariots are hewn from the granite rock face, while the famed Shore Temple, erected half a century later, is built from dressed stone. What makes Mamallapuram so culturally resonant are the influences it absorbs and disseminates. The Shore Temple includes many reliefs, including one 100 ft. long and 45 ft. high, carved out of granite.\n\nLocation:\n\nMamallapuram, also known as Seven Pagodas or Mahabalipuram, is a town in Chengalpattu district in the southeastern Indian state of Tamil Nadu. It is on the coastline 58 kilometres (36 mi) south of the city of Chennai.
+    </string>
+    <string name="des_one">\n\nSome important structures include:\n\nDescent of the Ganges or Arjuna Penance – a giant open-air rock relief Pancha Rathas (Five Chariots) – five monolithic pyramidal structures named after the Pandavas (Arjuna, Bhima, Yudhishtra, Nakula and Sahadeva) and Draupadi. \n\nEach of these is carved from one single separate large piece of stone. Cave Temples – over ten rock-cut temples dating back to the 7th century. These include the Varaha, Adi Varaha, Krishna, Mahishasuramardini (Durga), Ramanuja, Dharmaraja, Koneri, Kotikal, Panchapandava and others
+    </string>
+    <string name="the_more_pictures">The more pictures</string>
+    <string name="brihadisvara_temple_tanjore">Brihadisvara Temple - Tanjore</string>
+    <string name="des_tanjore">\n\nBrihadishvara Temple, also called Rajarajesvaram or Peruvudaiyār Kōvil,
+is a Hindu temple dedicated to Shiva located in South bank of Kaveri river in Thanjavur,
+Tamil Nadu, India .It is one of the largest South Indian temples and an exemplary example of a fully realized Dravidian architecture.
+It is called as Dhakshina Meru (Meru of south).
+ \n\nBuilt by Tamil king Raja Raja Chola I between 1003 and 1010 AD, the temple is a part of the UNESCO World Heritage Site known as the "Great Living Chola Temples",
+ along with the Chola dynasty era Gangaikonda Cholapuram temple and Airavatesvara temple that are about 70 kilometres (43 mi) and 40 kilometres (25 mi)
+to its northeast respectively.[6]
+The original monuments of this 11th century temple were built around a moat.
+It included gopura, the main temple, its massive tower, inscriptions, frescoes and sculptures predominantly related to Shaivism,
+but also of Vaishnavism and Shaktism traditions of Hinduism. The temple was damaged in its history and some artwork is now missing.
+\n\nAdditional mandapam and monuments were added in centuries that followed. The temple now stands amidst fortified walls that were added after the 16th century.
+Built out of granite, the vimana tower above the sanctum is one of the tallest in South India.
+ It was, in all likelihood, one of the tallest structures in the world at the time of its construction.[citation needed]
+The temple has a massive colonnaded prakara (corridor) and one of the largest Shiva lingas in India.
+\n\n It is also famed for the quality of its sculpture, as well as being the location that commissioned the brass Nataraja – Shiva as the lord of dance,
+in 11th century. The complex includes shrines for Nandi, Parvati, Kartikeya, Ganesha, Sabhapati, Dakshinamurti, Chandeshvara, Varahi and others.
+ The temple is one of the most visited tourist attractions in Tamil Nadu</string>
+    <string name="des_loc">\n\nLocation
+\n\nThe Brihadeswara Temple is located in the city of Thanjavur, about 350 kilometres (220 mi) southwest of Chennai. The city is connected daily to other major cities by the network of Indian Railways, Tamil Nadu bus services and the National Highways 67, 45C, 226 and 226 Extn.[17][18] The nearest airport with regular services is Tiruchirappalli International Airport (IATA: TRZ), about 55 kilometres (34 mi) away.[19]
+
+\n\nThe city and the temple though inland, are at the start of the Cauveri River delta, thus with access to the Bay of Bengal and through it to the Indian Ocean. Along with the temples, the Tamil people completed the first major irrigation network in the 11th century for agriculture, for movement of goods and to control the water flow through the urban center. </string>
+    <string name="mamallapura">Mamallapuram</string>
+    <string name="tamil_nadu">TAMIL NADU</string>
+    <string name="other_images">Other Images</string>
+    <string name="ooty">Ooty</string>
+    <string name="des_ooo">\n\nHistory\n\nUdagamandalam was originally a tribal land occupied by the Toda and Badagas along with other hill tribes who coexisted through specialisation and trade. The major tribes of Nilgiris area are the Toda, Kota, Irula and Kurumba. The Baduga language is the most spoken language and resembles Kannada, but it is not a dialect of Kannada.The Toda in the Nilgiris are first referenced in a record belonging to Hoysala king Vishnuvardhana and his general Punisa, dated 1117 CE.[9] The Toda people were known for raising water buffalo. The Badaga people known for farming activities.[10] Nilgiris was ruled by various dynasties like Satavahanas, Gangas, Kadambas, Rashtrakutas, Hoysalas, the Vijayanagara empire and the Rajas of Ummattur (on behalf of Wodeyars of Mysuru).[9][11][12][13][14] Tipu Sultan captured Nilgiris in the eighteenth century and extended the border by constructing a hideout cave-like structure.[10] The Nilgiris came into possession of British East India Company as part of the ceded lands, held by Tipu Sultan, by the treaty of Srirangapatnam in 1799.
+In 1818, J. C. Whish and N. W. Kindersley, assistants to John Sullivan, then Collector of Coimbatore, visited Ooty and submitted a report to him. Sullivan camped at Dimbhatti, north of Kotagiri in January 1819 and was enthralled by the beauty of the place. He wrote to Thomas Munro,  it resembles Switzerland, more than any country of Europe. the hills beautifully wooded and fine strong spring with running water in every valley."[15] The Toda ceded that part of the town to Sullivan and in May 1819, he began to build his bungalow at Dimbhatti. He also started work on a road from Sirumugai to Dimbhatti that year. The road was completed in May 1823, and extended up to Coonoor by 1830-32.[5]Aranmore Palace in Ooty, served as the summer capital of the Madras Presidency; it was visited by British officials during the colonial days as a popular summer resort.[16] Soldiers were sent to nearby Wellington to recuperate. Wellington is the home of the Madras Regiment of the Indian Army.[17][18] After Independence, it developed into a popular hill resort.</string>
+    >
+    <string name="des_loca">\n\nLocation:\n\nOoty (short for Udhagamandalam) is a resort town in the Western Ghats mountains, in southern India Tamil Nadu state. Founded as a British Raj summer resort, it retains a working steam railway line. Other reminders of its colonial past include Stone House, a 19th-century residence, and the circa-1829 St. Stephen’s Church. Its 55-acre Government Botanical Garden lies on the slopes of Doddabetta Peak</string>
+    <string name="kodaikanal">KODAIKANAL</string>
+    <string name="des_kkk">\t\tKodaikanal is a city in the hills of the Dindigul district in the state of Tamil Nadu, India.[2] Its name in the Tamil language means "The Gift of the Forest".[3] Kodaikanal is referred to as the "Princess of Hill stations" and has a long history as a retreat and popular tourist destination.
+        \n\nKodaikanal Main Town covered with mistBoating in Kodaikanal Lake.Kodaikanal was established in 1845 as a refuge from the high temperatures and tropical diseases of the plains.[4] Much of the local economy is based on the hospitality industry serving tourism. As of 2011, the city had a population of 36,501
+    </string>
+    <string name="des_kkn">\n\nThe town of Kodaikanal sits on a plateau above the southern escarpment of the upper Palani Hills at 2,133 metres (6,998 ft), between the Parappar and Gundar Valleys. These hills form the eastward spur of the Western Ghats on the western side of South India. It has an irregular basin as its heartland, the centre of which is now Kodaikanal Lake a 5 kilometres (3.1 mi) circumference manmade lake. A few kilometers away from Kodaikanal a small village named Vattakanal is located in the Dindigul District on the southern tip of the upper Palani hills in the state of Tamil Nadu, along the eastern coast of the Western Ghats.Vattakanal is better known as Vatta which means circle and by most or Little Israel by the villagers that observe a large number of Israeli tourists who flock there from October onwards.\n\n
+Meadows and grasslands cover the hillsides. Gigantic eucalyptus trees and shola forests flourish in the valleys. Mighty rocks and cascading streams lie above the valleys. There are many high waterfalls and ubiquitous gardens and flower beds in bloom.\n\nKodaikanal is known for its rich flora. Of the big trees, cypress, eucalyptus and acacia are the dominant varieties. Pear trees are numerous and the fruits are of high quality. Competing with the fruit trees are the flowering ones, mainly rhododendron and magnolia. Large dahlias of different hues are the main attraction of Bryant Park, situated close to the Kodai lake. Water lilies in the parks pond are another pleasing sight. The town abounds in beautiful yellow wild flowers.[11]North of the town, high hills that slope down into the villages of Pallangi and Vilpatti stand guard. On the east the hill slopes less abruptly into the lower Palnis. A precipitous escarpment facing the Cumbum Valley is on the south. On the west is a plateau leading to Manjampatti Valley, Indira Gandhi National Park, the Anamalai Hills and the main body of the Western Ghats of Kerala border.
+    </string>
+    <string name="the_meenakshi_temple_at_madurai">The Meenakshi Temple at Madurai</string>
+    <string name="des_me">\n\nMeenakshi Temple (also referred to as Meenakshi Amman or Meenakshi-Sundareshwara Temple)[2], is a historic Hindu temple located on the southern bank of the Vaigai River[3] in the temple city[4] of Madurai, Tamil Nadu, India. It is dedicated to Meenakshi, a form of Parvati, and her consort, Sundareshwar, a form of Shiva.[5][6] The temple is at the center of the ancient temple city of Madurai mentioned in the Tamil Sangam literature, with the goddess temple mentioned in 6th century CE texts.\n\nHISTORY\n\nMadurai Meenakshi temple was built by King Kulasekara Pandya (1190-1216 CE). He built the main Portions of the three-storeyed gopura at the entrance of Sundareswarar Shrine and the central portion of the Goddess Meenakshi Shrine are some of the earliest surviving parts of the temple. The traditional texts call him a poet-saint king, additionally credit him with a poem called Ambikai Malai, as well as shrines (koil) each for Natarajar and Surya near the main temple, Ayyanar in the east, Vinayagar in the south, Kariamalperumal in the west and Kali in the north. He also built a Mahamandapam. Kulasekara Pandya was also a poet and he composed a poem on Meenakshi named Ambikai Malai.[8] Maravarman Sundara Pandyan I built a gopura in 1231, then called Avanivendaraman, later rebuilt, expanded and named as Sundara Pandya Thirukkopuram.[8]. Chitra gopuram (W), also known as Muttalakkum Vayil, was built by Maravarman Sundara Pandyan II (1238-1251). This gopuram is named after the frescoes and reliefs that depict secular and religious themes of Hindu culture. Maravarman Sundara Pandyan II also added a pillared corridor to the Sundareswara shrine and the Sundara Pandyan Mandapam.
+    </string>
+    <string name="des_meloc">\n\n
+The temple and the city of Madurai (only major roads sketched).
+The Meenakshi temple is located in the heart of historic Madurai city, about a kilometer south of the Vaigai River. It is about 460 kilometres (290 mi) southwest from Chennai, the state capital.[24] The temple complex is well connected with road network (four lane National Highway 38), near a major railway junction and an airport (IATA: IXM) with daily services. The city roads radiate from the temple complex and major ring roads form a concentric pattern for the city, a structure that follows the Silpa Sastra guidelines for a city design.[10][25] Madurai is one of the many temple towns in the state which is named after the groves, clusters or forests dominated by a particular variety of a tree or shrub and the same variety of tree or shrub sheltering the presiding deity. The region is believed to have been covered with Kadamba forest and hence called Kadambavanam</string>
+    <string name="kerala">KERALA</string>
+    <string name="munnar">Munnar</string>
+
+    <string name="a">\n\nVisitor Information\n\n
+Famous for: Hill station, Landscape, Tea Estates, Flora, Fauna\n\n
+Major Attractions: Eravikulam National Park, Tea Estates and Anamudi\n\n.
+Nearby Places: Chalakudy, Thekkady.\n\nAbout Munnar\n\nGet ready to be lost in the chanceless beauty of the place where three rivers meet, namely Kundalay, Mudrapuzha and Nallathanni. Situated at 1524-metre altitude on the Western Ghats, the tourist places in Munnar makes you wonder if it is the birthplace of beauty. The lush green landscape, waterfalls, lakes, forests and tea plantations make this place a heaven on earth. The place offers spectacular view of misty valleys and lakes. You might never have believed that watching tea plantations continuously might be so absorbing and interesting. You can have your share of adventure here as you can go paragliding, trekking and rock climbing
+    </string>
+    <string name="b">\nHow to Reach\nAir:\n
+Cochin International Airport, 110 kms (approx 3 hours) away is the closest airport. Take a prepaid cab or a bus from Cochin to Munnar.\n
+Rail:\n
+\nAluva railway station (AWY), 110 kms away is the closest railway junction. Next option would be Ernakulam Junction railway station, about 135 kms away is the next major railway junction. Take a cab from any of these stations to Munnar.\n
+Road:\n
+\nKerala State Road Transport Corporation provides regular bus service in all parts of the state. Apart from state buses, some private buses also operate connecting Kerela with the nearby states. Munnar has good road connectivity through NH85 and NH45.\n
+Places of Interest\n
+
+*Atukkad Waterfalls\n
+*Muniyara Dolmens\n
+*Echo Point\n
+*Eravikulam (Rajamalai) National Park\n
+*Mattupetty Dam\n
+*Chithirapuram\n
+*Top Station\n
+*Marayur\n
+    </string>
+    <string name="kumarakom">Kumarakom</string>
+    <string name="c">\nVisitor Information\n
+        * Famous for: Backwaters, Nature, Houseboats.\n
+     * Major Attraction: Vembanad Lake.\n
+     * Nearby Places: Alleppey, Thekkady.
+\n   * Ideal Visit Time: 2 days\n
+    \n\nAbout Kumarakom\n
+\nKumarakom is located near Kottayam. It is one of the famous attractions of Kerala. It is bird watchers’ paradise owing to the 14-acre bird sanctuary, a favorite ground for migratory birds. Kumarakom is also a spectacular backwater destination and hence you can go on a boating ride here. As Ayurvedic massage is done here, the place is a favorite for everyone who seeks to relax body and mind. The Vembanad Lake in Kumarakom is a favorite tourist spot. It is the largest lake in Kerala and the longest lake in India. It is a great place to spend a relaxed day watching sunrise or sunset depending on the time of cruise
+    </string>
+    <string name="d">\nHow to Reach\nAir:\n
+Cochin International Airport, 110 kms (approx 3 hours) away is the closest airport. Take a prepaid cab or a bus from Cochin to Munnar.\n
+Rail:\n
+Aluva railway station (AWY), 110 kms away is the closest railway junction. Next option would be Ernakulam Junction railway station, about 135 kms away is the next major railway junction. Take a cab from any of these stations to Munnar.\n
+Road:/n
+Kerala State Road Transport Corporation provides regular bus service in all parts of the state. Apart from state buses, some private buses also operate connecting Kerela with the nearby states. Munnar has good road connectivity through NH85 and NH45.\n
+\nPlaces of Interest\n
+        * Atukkad Waterfalls\n
+        * Muniyara Dolmens\n
+        * Echo Point\n
+        * Eravikulam (Rajamalai) National Park\n
+        * Mattupetty Dam\n
+        * Chithirapuram\n
+        * Top Station\n
+        * Marayur\n
+    </string>
+    <string name="e">\nVisitor Information\n
+        * Famous for: Backwaters, Wildlife, Elephant rides.\n
+        * Major Attraction: Periyar National Park.\n
+        * Nearby Places: Alleppey, Kumarakom.\n
+        * Ideal Visit Time: 1-2 days.\n\n
+    About Thekkady:\n
+        Thekkady offers a great chance to view wildlife while on a cruise. You can find various wildlife species here including elephants, tigers, deer, bisons and many more. Elephant rides are available here to take you inside the forest. Plantations and hill stations offer a picturesque setting to the place. You can go on a trek here. Some of the most important tourist attractions in Thekkady are Periyar River, Murikkady and Chellarkovil.</string>
+    <string name="thekkady">Thekkady</string>
+    <string name="f">\n\nHow to Reach\n
+        Air:\n
+Madurai Airport, about 150 kms (approx 3 hr) away is the closest airport. Take a prepaid cab or a bus from Madurai to Thekkady.\n
+Rail:\n
+Kottayam railway station (KTYM), 107 kms (approx 3 hours) away is the closest railway junction. Take a cab or bus from the station to Thekkady.\n
+Road:\n
+Kerala State Road Transport Corporation provides regular bus service in all parts of the state. Apart from state buses, some private buses also operate connecting Kerala with the nearby states. Thekkady has good road connectivity through NH85, NH66 and NH 183\n
+    </string>
+    <string name="o">\nVisitor Information\n
+        * Famous for: Beaches, Cliffs, Landscape.\n
+        * Major Attractions: Varkala beach and cliffs.\n
+        * Nearby Places: Thiruvananthapuram, Kovalam, Paravur.\n
+        * Ideal Visit Time: 2 days.\n
+\nAbout Varkala\n
+
+Varkala is famous for Ayurvedic massage and the place itself is in a wonderful setting. The beach and the mountain make the place attractive. You would not want to miss the sight of sunset here. The beach is clean and offers a great relaxation. You could stretch and let your eyes feast on the tranquil atmosphere or go for swimming and enjoy a great physical exercise. One of the most important aspects about the beach is that it is less crowded and hence you can have your space without being disturbed. Let the beauty of the beach and the atmosphere sinks in as you spend a quiet evening here</string>
+    <string name="varkala_beach">Varkala Beach</string>
+    <string name="l">\nHow to Reach\n
+        * Air:\n
+Trivandrum International Airport, 40 kms (1 hour) away is the closest airport. Take a prepaid cab or a bus from here to Varkala.\n
+* Rail:\n
+Varkala Sivagiri railway station (VAK) is the closest railway junction. Thiruvananthapuram Central railway station (TVC), about 40 kms (1 hr) away is the nearest major railway junction. Take a cab from any of these stations to Varkala.\n
+* Road:\n
+Kerala State Road Transport Corporation provides regular bus service in all parts of the state. Apart from state buses, some private buses also operate connecting Kerala with the nearby states. Varkala has good road connectivity through NH 66.
+\n\nPlaces of Interest\n
+        * Shree Janardhanaswamy Temple\n
+* Sivagiri\n
+* Papanasam Beach\n
+* Edava Beach\n
+* Varkala Tunne\n
+    </string>
+    <string name="z">\n\nVisitor Information\n
+
+* Famous for: Beaches, Nature, Rivers.\n
+* Major Attraction: Kovalam beach\n
+* Nearby Places: Thiruvananthapuram, Varkala.\n
+* Ideal Visit Time: 2 days.\n
+\n\nAbout Kovalam\n
+
+Kovalam is yet another stunning location in Kerala. Situated 16 kms away from the city of Trivandrum, Kovalam has three enchanting beaches. The largest of all the three beaches is the Lighthouse Beach. Hawah Beach is the second largest one here and the third beach is Samudra. Kovalam is one of the most sought after destinations in Kerala.
+    </string>
+    <string name="x">\nHow to Reach\n
+* Air:\n
+Trivandrum International Airport, 15 kms away is the closest airport. Take a prepaid cab or a bus from Madurai to Kovalam.\n
+* Rail:\n
+The Trivandrum Central railway station (TVC) is the closest major railway junction. Take a cab or bus from the station to Kovalam.\n
+* Road:\n
+Kerala State Road Transport Corporation provides regular bus service in all parts of the state. Apart from state buses, some private buses also operate connecting Kerala with the nearby states. Kovalam has good road connectivity through Kovalam Rd.
+
+\n\nPlaces of Interest\n
+* Lighthouse Beach\n
+* Hawah Beach\n
+* Samudra Beach\n
+* The German Bakery\n
+* Karamana River\n
+* Edakallu\n
+* Vellayani Lake\n
+* Halcyon Castle\n
+* Valiyathura Pier\n
+* Vizhinjam Village\n
+    </string>
+    <string name="kovalam_beach">Kovalam Beach</string>
+    <string name="karnataka">Karnataka</string>
+    <string name="v">\nAbout Coorg\n
+* Country: India | State: Karnataka\n
+* Ideal Trip Duration: 1-2 Days\n
+* Nearest City to Coorg: Mysore (117 Kms)\n
+* Best Time to Visit Coorg: October to March\n
+* Peak Season: December to January and May to June\n\n
+  Locatio:\n      At a distance of 265 km from Bangalore, 117 km from Mysore, 132 km from Mangalore, 322 km from Coimbatore and 362 km from Kochi, Coorg or Kodagu is a district in Karnataka and Madikeri is the district headquarters. At an altitude of 1525 meters on Western Ghats, it is also known as the Scotland of India. Coorg is the most famous places to visit in India and among the most popular attraction not to miss in a honeymoon tour packages. It is also one of the top destinations of Karnataka tourism.
+    </string>
+    <string name="n">\n\nBest places:\n* Talacauvery\n* Abbey Falls * Dubare\nwildlife sanctuaries: \n* the Talacauvery\n * Pushpagiri\n* Brahmagiri Sanctuaries\n \t and one national park, the Nagarhole National Park. Some of the animal species found in these wildlife parks include the Asiatic elephant, tigers, leopards and wild boars.
+
+Coorg is also famous for trekking activities with peaks like Thandiyandamole, Brahmagiri and Pushpagiri. Elephant rides at Dubare Elephant camp and white water rafting in Upper Barapole River are other interesting things to do in Madikeri.
+
+\n\nLocation:\nMangalore airport is the nearest airport which is 146 km from Madikeri. Mysore Junction and Mangalore Junction railway stations are nearest stations. Mangalore Junction Railway Station is about 131 km and Mysore Junction Railway station is about 117 km from Madikeri. KSRTC buses as well as private buses provide services to Madikeri from nearby cities like Bangalore, Mysore, Mangalore, Ooty, etc.
+
+Coorg has pleasant weather throughout the year, though October - June is the best time to visit Coorg. It usually takes about 1-2 full days to visit the important places in Coorg. </string>
+    <string name="coorg">Coorg</string>
+
+    <string name="q"> About Mysore\n* Country: India | State: Karnataka\n
+* Ideal Trip Duration: 2 Full Days\n
+* Nearest City to Mysore: Mysore\n
+* Best Time to Visit Mysore: October to February\n
+* Peak Season: October and December to January and May to June\n
+    At a distance of 139 km from Bangalore, 476 km from Chennai, 247 km from Mangalore, 203 km from Coimbatore and 128 km from Ooty, Mysore is the 2nd biggest City in Karnataka. It is the erstwhile capital of the Mysore Maharajas, who ruled the Mysore State between 1399 and 1947. Mysore still retains its old world charm with its palaces, heritage buildings, traditions and temples. At an altitude of 763 meters surrounded by hill ranges from north to south, it is known as the City of Palaces.
+    </string>
+    <string name="p">\n\nHistory:According to this story in the mythological Devi Purana, Mysore was ruled by the demon-king Mahishasura. He was called Mahishasura, because he was a buffalo-headed monster. Hearing to the prayers of Gods and Goddess to save them from the monster, Goddess Parvathi took birth as Chamundeswari and killed the monster. Hence, this place came to be known as Mahishuru, later became Maisuru and Mysore.
+
+The Mysore Kingdom, ruled by the Wodeyar family was initially served as a vassal state of the Vijayanagara Empire. After the decline of Vijayanagara Empire, Mysore became independent and the region was ruled from Srirangapatna. The power of Mysore moved into the hands of Hyder Ali and Tipu Sultan between 1761 and 1799. After the death of Tipu Sultan in fourth Anglo-Mysore war, the power was handed over back to Wodeyar family.\n\nLocation:\nBangalore Airport is the nearest airport which is about 184 km from Mysore. It has regular flights from Kolkata, Mumbai, Delhi, Hyderabad, Chennai, Ahmedabad, Goa, Kochi, Mangalore, Pune and Thiruvananthapuram.
+
+Mysore Junction Railway station is well connected by train from Bangalore, Bagalkot, Tirupati, Tuticorin, Hubli, Chennai, Dharwar and Arsikere. Mysore has direct bus connectivity with Chennai, Bangalore, Ooty, Coorg, Coimbatore, kochi, Mumbai, Pune, Goa and Hyderabad.
+    \n\nOther places:Mysore has several tourist attractions including palaces, museums, temples, gardens, etc. Mysore Palace, Chamundi Hill Temple, Mysore Zoo are the most famous places to visit in Mysore. Srirangapatna and Brindavan Gardens are major attractions close to Mysore.</string>
+
+    <string name="mysore_palace">Mysore - Palace</string>
+    <string name="s">\n\nAbout Bandipur National Park\n
+* Country: India | State: Karnataka\n
+* Ideal Trip Duration: 4 Hours/Half Day\n
+* Nearest City to Bandipur National Park: Mysore (80 Kms), Bangalore (215 Kms)\n
+* Best Time to Visit Bandipur National Park: October to March\n
+* Peak Season: October and December to January and May to June\n
+    \n\nInformation:\nSpread across 874 sq.km, Bandipur is one of the best places to visit as part of your wildlife tour in India. It can be visited along with Wayanad as part of Wayanad tour packages. It is part of the famous Nilgiri Biosphere Reserve along with Nagarhole National Park, Mudumalai National Park (12 Kms towards Ooty) and Wayanad Wildlife Sanctuary. Bandipur forests used to be the private game reserve of the Maharajas of Mysore. This Sanctuary is one of the 15 sanctuaries belonging to the Project Tiger Scheme. Bandipur was declared a National Park under the Wildlife Protection Act in 1974.
+</string>
+    <string name="y">\n\nAbout WildLife:\nIt is home to around 70 tigers and over 3000 Asian elephants, as well as other animals like leopards, dhole, gaur, sloth bears, and a variety of birdlife. Gopalaswami Betta is the highest peak in the Bandipur range.
+
+Jeep Safari (90 minutes), Mini Bus Safari (90 minutes) are arranged by the forest department. The cost and timings keep changing and sometimes they cancel the safari without any prior notice\n\n
+    Entry Point Information:\The entry point and interpretation center of the park is located in Bandipur village on Highway after Melkamanahalli Village. Private vehicles are NOT allowed inside the park.
+The best time to visit Bandipur National Park is from June to October.\n
+
+* Safari Timings: 6 to 9:30 AM and 2:30 to 6:30 PM\n
+* Bus Safari Cost (90 mins): Rs. 350 per person\n
+* Jeep Safari (90 mins): Rs. 3500 per jeep (6 pax).\n
+  Note: Safari timings and cost changes frequently\n</string>
+    <string name="bandipur_national_park">Bandipur - National Park</string>
+    <string name="m">\n\nAbout Jog Falls\n
+* Country: India | State: Karnataka\n
+* Ideal Trip Duration: 4 Hours/Half Day\n
+* Nearest City to Jog Falls: Hubli (161 Kms)\n
+* Best Time to Visit Jog Falls: October to January\n
+* Peak Season: October to January\n
+        \n\nInformation:\n
+Jog Falls is one of the most beautiful waterfalls in India and one of the top destinations of Karnataka Tourism. This is formed over the Sharavathi River falling from a height of 253 m (830 ft).The Sharavathi River flowing over a very rocky bed about 250 yards wide, 253 m deep and the water comes down in four distinct falls known as Raja, Rani, Rover and Rocket. The four cascades merge to form the huge waterfall. The Raja Fall pours in one unbroken column sheer to the depth of 830 ft. Halfway down it is encountered by the Rover, another fall, which rushes violently downwards to meet the Raja. A third fall, the Rocket, shoots downwards in a series of jets; while the fourth, the Rani, is a quiet fall over the mountain side
+    </string>
+    <string name="k">\n\nLocation:\nAt a distance of 400 km from Bangalore, 105 km from Shimoga, 161 km from Hubli, 87 km from Murudeswar, 150 km from Karwar, 31 km from Sagar, 60 km from Sirsi and 21 km from Siddapur, Jog falls is the one of the highest plunge waterfall in India situated in Shimoga district of Karnataka State.
+    Hubli Airport is the nearest airport which is 171 km away from Jog Falls. The nearest railway station is at Shimoga at a distance of around 105 km from Jog Falls. The Shimoga Railway Station is well connected to Mysore, Bangalore, Birur and Talguppa. Jog Falls is accessible by bus from Sagar and Siddapur. Sirsi is also a good base station to visit Jog Falls and other places around.The best time to visit Jog Falls is from August to January while the peak season is from September to December. Usually it takes half day to visit Jog Falls</string>
+    <string name="jog_falls">Jog Falls</string>
+    <string name="j">\n\nAbout Udupi\n
+* Country: India | State: Karnataka\n
+* Ideal Trip Duration: 2 Full Days\n
+* Nearest City to Udupi: Mangalore (60 Kms)\n
+* Best Time to Visit Udupi: October to March\n
+        * Peak Season: December to January and May to June\n
+    \nAbout City:\n\nUdupi is the land of breathtaking beauty, located between the verdant mountains of the Western Ghats and the Arabian Sea. Udupi is famous for Sri Krishna Temple. The Udupi Krishna Math was established in the 13th century by the great philosopher, Madhavacharya. The temple attracts pilgrims from all over India and is also a center for the Dvaita philosophy. This temple has a fascinating idol of Lord Krishna that is richly adorned with jewels. Famous Hindu saints such as Chaitanya, Purandaradasa and Kanakadasa visited this temple for the darshan of Lord Krishna. Another attraction of Sri Krishna Temple is the Kanakana Kindi, a small window through which Lord Krishna is believed to have given darshan to his devotee, Kanakadasa</string>
+    <string name="h">\n\nHistory And its Fomous:\nThere is also another temple dedicated to Lord Shiva, believed to be more than 1000 years old, located near Yellur. Udupi is also famous for the wonderful beaches including Malpe Beach, Kaup Beach and St. Mary Island. Being part of the Tulu Nadu, Tulu is the main language spoken in this regionUdupi is synonymous with the world-famous Udupi cuisine, which is served all over India in the efficiently-run Udupi restaurants, famous for dosas, idlis and other snacks. The tradition of this cuisine started in the great kitchens of the Krishna Temple which serve meals in the form of prasada to the thousands of devotees who come to pray at the holy shrine.\n\nLocation:\nAt a distance of 65 km from Mangalore, 102 km from Murudeshwar, 147 km from Shimoga, 309 km from Mysore and 403 km from Bangalore, Udupi is a famous temple town and headquarters of the Udupi District. It is also the source of Udupi cuisine which is famous across the world. It is also one of the most famous tourist places to visit in Karnataka, mainly for it pilgrimage importance and beautiful beaches
+    Mangalore Airport is the nearest airport, which is 62 km from Udupi. Udupi Railway Station is well connected by trains to cities like Trivandrum, Bangalore, Mangalore, kochi, Bikaner, Madgoan, Mumbai, Tirunelveli, New Delhi and Goa. Buses regularly ply from Udupi to major cities like Bangalore, Mangalore, Goa, Shimoga, Mysore, Karwar, Pune and Mumbai.</string>
+    <string name="udupi_sri_krishna_temple">UDUPI - SRI KRISHNA TEMPLE</string>
+    <string name="maharastra">Maharastra</string>
+    <string name="g">\nVisitor Information\n
+* Famous for: Heritage, Monuments, Shopping, Cuisine.\n
+* Major Attraction: Elephanta Caves.\n
+* Nearby Places: Lonavala, Khandala, Pune,\n
+* Ideal Visit Time: 2-3 days.\n
+        \nAbout Mumbai\nFormerly known as ‘Bombay’, Mumbai is the largest city and the capital of Maharashtra. It is also the most populated city in India and the 5th most populous city in the world. The city that we see today is a collection of 7 islands which were joined into a single metropolitan through land reclamation techniques in the 18th century under the rule of the British East India Company. The city is often nicknamed the Manhattan of India and is home to the famous Indian film industry or ‘Bollywood’
+    </string>
+    <string name="mumbai">Mumbai</string>
+    <string name="t">\nHow to Reach\n
+        * Air:\n
+Chhatrapati Shivaji International Airport in the city is India’s second busiest airport. It is well connected both domestically and internationally.\n
+* Rail:\n
+Chhatrapati Shivaji Terminus railway station (CSTM) is the city’s major railway station with trains running to all cities of India at good frequency. Lokmanya Tilak Terminus railway station is the other major railway head in the city. Mumbai Suburban Railway serves the metropolitan area, with trains running at high frequency to all the areas within Mumbai.\n
+* Road:\n
+Mumbai has one of the best intercity bus network in India with about 2.3 million passengers commuting daily through its extensive bus network. Maharashtra State Road Transport Corporation (MSRTC) also runs interstate and intercity buses from Mumbai at good frequency. Buses run to and from Telangana, Gujrat, Karnataka, Goa and Madhya Pradesh.\n
+    \n\nPlaces to Visit\n
+* Gateway of India\n
+* Elephanta Caves\n
+* Marine Drive\n
+* Chhatrapati Shivaji Terminus\n
+* Haji Ali Shrine\n
+* Sanjay Gandhi National Park\n
+* Chhatrapati Shivaji Maharaj Vastu Sangrahalaya\n
+* Markets of Mumbai\n
+* Global Vipassana Pagoda\n
+* Siddhivinayak Temple\n
+* Basilica of Our Lady of the Mount\
+* Beaches of Mumbai\
+* Flora Fountain\n
+* Dr Bhau Daji Lad Mumbai City Museum\n
+* Fort Bassein\n
+    </string>
+    <string name="as">About Ajantha Caves:\n\tThe Ajanta Caves are 30 (approximately) rock-cut Buddhist cave monuments which date from the 2nd century BCE to about 480 CE in Aurangabad district of Maharashtra state of India.[1][note 1] The caves include paintings and rock-cut sculptures described as among the finest surviving examples of ancient Indian art, particularly expressive paintings that present emotions through gesture, pose and form.[3][4][5]
+        According to UNESCO, these are masterpieces of Buddhist religious art that influenced the Indian art that followed.[6] The caves were built in two phases, the first phase starting around the 2nd century BCE, while the second phase was built around 400–650 CE, according to older accounts, or in a brief period of 460–480 CE according to later scholarship.[7] The site is a protected monument in the care of the Archaeological Survey of India,[8] and since 1983, the Ajanta Caves have been a UNESCO World Heritage Site.</string>
+    <string name="ajantha_caves">Ajantha Caves
+    </string>
+    <string name="aa">\nLocation:\n Ajanta is one of the major tourist attractions of Maharashtra. It is about 6 kilometres (3.7 miles) from Fardapur, 59 kilometres (37 miles) from the city of Jalgaon, Maharashtra, India, 104 kilometres (65 miles) from the city of Aurangabad, and 350 kilometres (220 miles) east-northeast of Mumbai. Ajanta is 100 kilometres (62 miles) from the Ellora Caves, which contain Hindu, Jain and Buddhist caves, the last dating from a period similar to Ajanta. The Ajanta style is also found in the Ellora Caves and other sites such as the Elephanta Caves, Aurangabad Caves, Shivleni Caves and the cave temples of Karnataka
+    </string>
+    <string name="ellora_caves">Ellora Caves</string>
+    <string name="zz">Ellora (\e-ˈlȯr-ə\, IAST: Vērūḷ) (एलोरा) is a UNESCO World Heritage Site located in the Aurangabad district of Maharashtra, India. It is one of the largest rock-cut monastery-temple cave complexes in the world, featuring Jain, Buddhist and Hindu, monuments, and artwork, dating from the 600–1000 CE period.[1][2] Cave 16, in particular, features the largest single monolithic rock excavation in the world, the Kailasha temple, a chariot shaped monument dedicated to Lord Shiva. The Kailasha temple excavation also features sculptures depicting the gods, goddesses and mythologies found in Vaishnavism, Shaktism as well as relief panels summarizing the two major Hindu Epics
+    \n\t There are over 100 caves at the site, all excavated from the basalt cliffs in the Charanandri Hills, 34 of which are open to public. These consist of 12 Buddhist (caves 1–12), 17 Hindu (caves 13–29) and 5 Jain (caves 30–34) caves,each group representing deities and mythologies prevalent in the 1st millennium CE, as well as monasteries of each respective religion.[6] They were built close to one another and illustrate the religious harmony that existed in ancient India. All of the Ellora monuments were built during Hindu dynasties such as the Rashtrakuta dynasty, which constructed part of the Hindu and Buddhist caves, and the Yadava dynasty, which constructed a number of the Jain caves. Funding for the construction of the monuments was provided by royals, traders and the wealthy of the region
+    </string>
+    <string name="oo">\n\nLocation:\n
+Ellora Caves, general map (the rock is depicted as dark green)
+The Ellora caves are in the Indian state of Maharashtra about 29 kilometres (18 miles) northwest of the city of Aurangabad, 300 kilometres (190 miles) east-northeast of Mumbai, 235 kilometres (146 miles) from Pune and about 100 kilometres (62 miles) west of the Ajanta Caves, 2.3 kilometres (1.42 miles) from Grishneshwar Temple .
+Ellora occupies a relatively flat rocky region of the Western Ghats, where ancient volcanic activity had created multilayered basalt formations, known as the Deccan Traps. The volcanic activity that formed the west-facing cliff that houses the Ellora caves occurred during the Cretaceous period. The resulting vertical face made access to many layers of rock formations easier, enabling architects to pick basalt with finer grains for more detailed sculpting
+    </string>
+    <string name="xx">\n\nVisitor Information:\n
+* Famous for: Temples , Forts, Culture\n
+* Major Attractions: Panchvati and Dugarwadi waterfall.\n
+* Nearby Places: Mumbai, Aurangabad, Pune, Shirdi.\n
+* Ideal Visit Time: 1-2 days.\n
+\n\nAbout Nashik:\n
+        Nashik is located in the North-Western region of Maharashtra and is located on the banks of the river Godavari which also originates here. The place is mentioned several times in Hindu Mythology and has been famous for being one of the cities that host the Kumbha Mela of India once every 12 years. The town has a huge number of tourist attractions including museums, gardens and a huge array of ancient Temples which are sacred and have been regarded highly important in the Hindu mythology. The city boasts of its authentic Marathi cuisines which must be tried
+    </string>
+    <string name="cc">\n\nHow to Reach:\n
+* Air:\n
+Chhatrapati Shivaji International Airport is the nearest airport with the best connectivity about 2 hrs 55 min (167 km) away and is well connected both domestically and internationally. Take a cab from the airport to Nashik.\n
+* Rail:\n
+Nasik Road railway station (NK) in the city has trains from all Indian state as it is an important station on the Central India Railway line. Take a cab from the station to any part of the city.\n
+* Road:\n
+Maharashtra State Road Transport Corporation (MSRTC) runs interstate and intercity buses from Nashik at good frequency. The National Highways passing through the city are NH 60 and NH 848.\n
+\n\nPlaces to Visit;\n
+* Trimbakeshwar Temple\n
+* Pandavleni Caves\n
+* Panchvati\n
+* Muktidham Temple\n
+* Dugarwadi waterfall\n
+* Anjaneri Mountains\n
+* Saptashrungi\n
+* Kalaram Mandir\n
+* Kapaleshwar temple\n
+* Ram Kund\n
+    </string>
+    <string name="nasik">Nasik</string>
+    <string name="vv">\n\nVisitor Information:\n
+* Famous for: Hill Station, Views, Nature, Temples.\n
+* Major Attractions: Lingmala Waterfalls and Panchganga Temple.\n
+* Nearby Places: Pune, Wai, Khandala.\n
+* Ideal Visit Time: 2 days.\n
+    \n\nAbout Mahabaleshwar:\n
+        \tMahabaleshwar is a hill station in Maharashtra and is located at the Western Ghats. The average elevation of the place is approximately 1,353 meters above sea level and is the source of the Krishna River. The water originates from a spout which is shaped like the mouth of a cow and is situated at an ancient temple of Lord Shiva. The city is a famous summer retreat for the people in Mumbai and is famous for its lakes and trekking hotspots</string>
+    <string name="mahabaleshwar">Mahabaleshwar</string>
+    <string name="tt">\n\nHow to Reach:\n
+* Air:\n
+Pune International Airport is the nearest airport with the best connectivity about 3 hrs (121 km) away and is well connected both domestically and internationally. Take a cab from the airport to Mahabaleshwar.\n
+* Rail:\n
+Satara railway station (STR) about 1 hr 22 min (56.6 km) is the nearest railway station. It is well connected to all major cities of India and a cab can be taken from here to any part of the city.\n
+* Road:\n
+Maharashtra State Road Transport Corporation (MSRTC) runs interstate and intercity buses from Satara, the nearest town at good frequency. The road journey via a cab from Satara to Mahabaleshwar will take approximately 1 hour.\n
+\nPlaces to Visit:\n
+* Pratapgarh Fort\n
+* Pratap Garden\n
+* Afzal Khan Tomb\n
+* Old Mahabaleshwar\n
+* Bhawani Mandir\n
+    </string>
+    <string name="Madhya_pradesh">madhya_pradesh</string>
+    <string name="ad">\n\nBandhavgarh National Park:\n
+ * Madhya Pradesh , India\n
+* 22 Hotels found\n
+* Weather:  33° C\n
+* Best Time: Feb-June\n
+* Ideal duration: 1-2 days\n
+* Nearest Airport: Jabalpur Check Flights\n
+        \nAbout Bandhavgarh National Park: \n
+        The Bandhavgarh National Park in Madhya Pradesh is a beautiful forest with wildlife and vegetation in abundance. Formerly a hunting ground for the Maharajas of Rewa, this National Park is world-renowned as a tiger reserve.\n
+    </string>
+    <string name="af">Bandhavgarh is known to have the highest density of Royal Bengal Tigers in the world and the frequent sightings of royal tigers make this national park a must-visit for all wildlife enthusiasts. In 2012, around 44-49 tigers were living in the park. There are more than 22 species of mammals and 250 species of avifauna.
+A jeep safari into the park can take for a ride through adventure and enjoyment. The park got its name from the Bandhavgarh fort situated at the height of 800 m high cliffs nearby. The fort is in ruins now, but an hour trek to the fort is worth it as it provides a generous view of surroundings.
+        \n\nTransportation:\n
+    Air : \tBandhavgarh does not have the airport facility for mainstream flights, but Jabalpur city, which is the nearest city to Bandhavgarh, has good air connectivity with major cities of India. Private charters can land near to Bandhavgarh National Park, Umaria district is having small air-strip facility for charter planes. Jabalpur Airport (199 km/04:30hrs) is the best option for reaching Bandhavgarh National Park as it is connected to: Delhi, Mumbai, Bangalore, Kolkata, Hyderabad, and Bhopal, with these airline options AirIndia, SpiceJet and Zoom Air
+    </string>
+    <string name="bandhavgarh_national_park">Bandhavgarh National Park</string>
+    <string name="ll">\n\nGwalior:\n
+* Madhya Pradesh  India\n
+* Weather:  36° C\n
+* Best Time: Jul-Mar\n
+* Ideal duration: 1-2 days\n
+* Nearest Airport: Agra Check Flights\n
+        \n\nAbout Gwalior:\nGwalior is a historic city located in the state of Madhya Pradesh. Popular because of the hilltop fort, Gwalior is full of palaces and glorious temples giving this city a majestic charm which speaks volumes of its glorious past.
+    </string>
+    <string name="pp">\nA historic city founded by king Surajesan, Gwalior is a city where India most eminent royalty once resided. Jai Vilas Pala has the largest carpet in the world which took almost 12 years to weave and two most massive chandeliers in the world that weight close to 3.5 tonnes.
+The great Indian musician Tansen was born in Gwalior, and the tomb of Tansen is also an important place here. Every year, in November/December, a four-day Tansen Music festival is celebrated in the city where various classical musicians from all over the country perform on the stage near the tomb itself.
+Visit the various monuments and museums, eat the local delicacies like namkeen and go boating in Tighra Dam while you are in the city.
+    </string>
+    <string name="gwalior">Gwalior</string>
+    <string name="qq">\n\nPachmarhi:\n
+* Madhya Pradesh  India\n
+* 37 Hotels found\n
+* Weather:  30° C\n
+* Best Time: Throughout the year Read More\n
+* Ideal duration: 2-3 days\n
+* Nearest Airport: Bhopal Check Flights\n
+    \nAbout hill Starion:\nThe only hill station and the highest point in Madhya Pradesh, Pachmarhi is often known as "Satpura ki Rani" or the "Queen of the Satpura Range". Situated at an altitude of 1,067 metres, the picturesque town is a part of UNESCO Biosphere Reserve, home to leopards and bison.</string>
+    <string name="pachmarhi_hill_station">Pachmarhi Hill Station</string>
+    <string name="er">Five sandstone cut caves on the hilltop are believed to be the spot where Pandavas stayed in Pachmarhi during their exile, making it a popular spot among religious tourists. Being at an elevated height and surrounded by bewitching forests of the Satpuras with the streams and waterfalls, Pachmarhi is a perfect weekend getaway from the nearby cities of Madhya Pradesh and Maharashtra. Since the town was discovered and developed in modern times by Captain James Forsyth of the British Army, it houses charming churches built in colonial style architecture.
+    \n\nLocation:\nIt is widely known as Satpura ki Rani ("Queen of Satpura"), situated at a height of 1067 m in a valley of the Satpura Range in Hoshangabad district. Dhupgarh, the highest point (1,352 m) in Madhya Pradesh and the Satpura range, is located here. It is a part of Pachmarhi Biosphere Reserve
+    </string>
+    <string name="yy">\n\nBhedaghat:\n
+* Madhya Pradesh  India\n
+* Weather:  38° C\n
+* Best Time: Nov-Mar Read More\n
+* Ideal duration: 1 day\n
+* Nearest Airport: Jabalpur Check Flights\n
+    \n\nBhedaghat Tourism:\n
+Also regarded as the Marble Rocks of Bhedaghat, this small town has earned a reputation for the 100 feet rocks on either sides of Narmada in not only India, but all across the world.
+Bhedaghat is in close proximity of one of the major cities of Madhya Pradesh of Jabalpur. Bhedaghat is also known for the Dhuandar Falls (Dhuan means smoke and Dhar means flow).
+     </string>
+    <string name="we">a huge cascade of water that falls from a height of 98 feet. Boating in Bhedaghat especially during the moonlit night would surely make up for an unforgettable experience. The boatmen of these place are storytellers that will tell you about the place in the form of interesting stories.
+The other notable attractions include 64 Yogini Temple and Bandar Kudini, a spot where two cliffs are so close to each other that monkeys hop over from one side to another\n\nLoation:\nBhedaghat is a town and a nagar panchayat in Jabalpur district in the state of Madhya Pradesh, India. It is situated by the side of river Narmada and is approximately 20 km from Jabalpur city. Its most famous sights are the Dhuandhar Falls, Marble Rocks, and the Chaunsath Yogini temple.</string>
+    <string name="bhedaghat">Bhedaghat</string>
+    <string name="ao">\n\nKhajuraho:\n
+* Madhya Pradesh  India\n
+* 85 Hotels found\n
+* Weather:  31° C\n
+* Best Time: Jul-Mar Read More\n
+* Ideal duration: 1-2 days\n
+* Nearest Airport: Khajuraho Check Flights\n
+    \nKhajuraho Tourism:\n
+Khajuraho, a UNESCO World Heritage Site located in Madhya Pradesh, is known around the world for its stunning temples adorned by erotic and sensuous carvings.
+    </string>
+    <string name="gh">A small town located in the Bundelkhand region, Khajuraho is a brilliant example of Indian architecture and its culture back in the medieval period. The architecture of these Hindu and Jain temples depict the innocent form of love, the carvings on the walls display passion in the most erotic yet aesthetic ways. Built between 950 to 1050 AD the sheer confrontational nature of these carvings shows a stark paradox with the conventional Indian ideals about eroticism, leaving everybody spellbound. Art in this small town is engrained in all of its structures and are a classic example of the finesse of Indias cultural and artistic heritage. The best part about Khajuraho is that although scores of plunderers tried to destroy the whole complex, they could never succeed, even though they managed to reduce the number of temples and caves to 25 from a staggering 85 at the time it was created.
+    </string>
+    <string name="khajuraho">Khajuraho</string>
+    <string name="madhya_pradesh">Madhya_pradesh</string>
+    <string name="orissa_odisha">Orissa(Odisha)</string>
+    <string name="rt">\nVisitor Information:\n
+* Famous for: Temples, Heritage, Cuisine.\n
+* Major Attraction: Lingaraj Temple.\n
+* Nearby Places: Cuttack, Puri.\n
+* Ideal Visit Time: 2 days.\n
+\nAbout Bhubaneswar:\n
+Temple city of India – This is how Bhubaneswar, the capital of Orissa is famously called. The land, which is over 2500 years old, is a blend of ancient monuments and modern constructions. It is believed that Bhubaneswar had over 2000 temples in the past. Many of them were destroyed by Muslim invaders, but thankfully, a few important ones like Lingaraja temple still stand. The temples are built in Kalinga style of architecture which is unique to Odisha. Bhubaneshwar also has some buddhist sites, due to the influence of Ashoka the great, who embraced Buddhism here after The Kalinga War.</string>
+    <string name="bhubaneswar">Bhubaneswar</string>
+    <string name="yu">\nHow to Reach:\n
+* Air:\n
+Biju Patnaik International Airport in the city is connected to all the major domestic terminals. Internationally, it has flights to Malaysia.\n
+* Rail:\n
+Bhubaneswar railway station (BBS) is one of the main and busiest railway stations in India and therefore it is connected from most of the cities of India. Take an auto, cab or a bus from the station to any part of the city.\n
+* Road:\n
+Odisha State Road Transport Corporation (OSRTC) runs interstate, inter and intra city buses regularly from Bhubaneshwar. Buses run regularly to and fro all cities of Odisha and also from the neighbouring states of West Bengal, Chattisgarh, Andhra Pradesh and Jharkhand.\n
+\nPlaces to Visit:\n
+* Parasurameswara Temple\n
+* Mukteswar Temple\n
+* Lingaraja Temple\n
+* Udayagiri and Khandgiri Caves\n
+* Dhauli Hill\n
+* Nandankanan Zoological Park\n
+* Odisha State Museum\n
+* Ananta Vasudeva Temple\n
+* Astasambhu Siva Temples\n
+* Ram Mandi</string>
+    <string name="rtr">\nVisitor Information:\n
+* Famous for: Lord Jagannath, Beach.\n
+* Major Attraction: Puri Jagannath Temple.\n
+* Nearby Places: Konark, Cuttack.\n
+* Ideal Visit Time: Less than 1 day.\n
+\nAbout Puri:\n
+
+For those with a particular religious faith, Puri might bring to mind the famous Jagannath Temple and the Sun Temple. For nature lovers, the beautiful beaches in the land may hold attraction. The vibrant land is famous for many festivals being a temple-rich place and it enjoys heavy footprints from all parts of the world</string>
+    <string name="op">\nHow to Reach:\n
+Air\n
+Biju Patnaik International Airport is the nearest airport about 1 hr 16 min (66.9 km) away and is connected to all the major domestic terminals.\n
+Rail\n
+Puri railway station (PURI) in the city is connected to most of the cities in India. Take an auto, cab or a bus from the station to any part of the city. This station is among the top 100 most booked stations in India, therefore be sure to book your tickets well in advance.\n
+Road\n
+Odisha State Road Transport Corporation (OSRTC) runs interstate, inter and intra city buses regularly from Puri. Buses run regularly to and fro all cities of Odisha and also from the neighbouring states of West Bengal, Chattisgarh, Andhra Pradesh and Jharkhand.\n
+\nPlaces to Visit:\n
+* Jagannath Temple\n
+* Puri Beach\n
+* Chilika Wildlife Sanctuary\n
+* Gundicha Ghar Temple\n
+* Atharnala Bridge\n
+* Pipil\n
+    </string>
+    <string name="puri_jagannath_temple">Puri Jagannath Temple</string>
+
+    <string name="po">\nVisitor Information:\n
+* Famous for: Heritage, Temples, Beach.\n
+* Major Attraction: Konark Sun Temple.\n
+* Nearby Places: Puri, Cuttack, Bhubneshwar.\n
+* Ideal Visit Time: 6 hours.\n
+About Konark:\n
+
+It is natural that your mind races to Sun Temple when you think of Konark. The 13th century temple stands tall in the minds of tourists in spite of the fact that it is now in ruins. Konark has a few other ancient temples on its land for both history lovers and religious minds.
+    </string>
+    <string name="uu">\nHow to Reach:\n
+* Air:\n
+Biju Patnaik International Airport is the nearest airport about 1 hr 38 min (72.5 km) away and is connected to all the major domestic terminals.\n
+* Rail:\n
+Puri railway station (PURI) in the city is connected to most of the cities in India. Take an auto, cab or a bus from the station to Konark, 52 min (35.5 km) away.\n
+* Road:\n
+Odisha State Road Transport Corporation (OSRTC) runs interstate, inter and intra city buses regularly to Konark. NH 316 is the national highway. Along with Bhubaneshwar and Puri, Konark also lies on the Golden Quadrangle.\n
+\nPlaces to Visit:\n
+Sun Temple\n
+* Konark Beach\n
+* Konark Museum\n
+* Ramachandi Temple\n
+* Balukhand-Konark Wildlife Sanctuary.\n
+    </string>
+    <string name="konark_sun_temple">Konark Sun Temple</string>
+    <string name="states">States</string>
+    <string name="chhattisgarh">Chhattisgarh</string>
+    <string name="rr">\nInformation:\n
+* Chattisgarh  India\n
+* Weather :   27° C\n
+        \nTirathgarh Falls Overview:\n
+Tirathgarh Falls is undoubtedly one of the most frequented tourist spots of Chhattisgarh. It is one spot that provides you with a culmination of entertainment, fun, picnic and adventure. The Tirathgarh Falls are also regarded as one of the best-known picnic spots in the whole of Jagdalpur. The unique feature of these falls is that it splits into multiple falls on its way down, offering a spectacular view to its visitors. This block type waterfall plunges 300 ft in one drop. Being located within the Kanger National Park makes Tirathgarh Falls a spot of ecotourism as well. This mesmerising waterfall is also named the milky fall as the water takes on a white colour while gushing downward. There is a small temple located beside the falls, and the lush, green forest surrounds the entire region. Tourists can also climb down to the base of the fall and indulge in a bath. Two hundred ten steps are leading the way to the bottom.\n
+\n\nPlaces to Visit Nearby:\n
+The Tirathgarh WaterFalls stands close to many other well-known tourist destinations. These include the famous Kutumsar Caves, Kailash Caves and The Kanger Dhara waterfalls. These places are located very close to Tirathgarh WaterFalls and lay at a walkable distance from each other. Also, these destinations are located in the Kanger National Park and hence tourists visit them while touring at the national park.
+    </string>
+    <string name="rd">\nBest Time to Visit Tirathgarh Falls:\n
+    The Tirathgarh waterfalls are surrounded by a dense cover of trees and hence the temperature is not very high.  The best time to visit the Tirathgarh falls is during the early winter season. The temperature during this time is cool and pleasant. The temperature ranges from 18 to 28 degrees Celsius. During this period, the flow of water is strong and wide and hence many tourists visit the falls during this time. During the summers and late winters, the flow of water is weaker and narrower. During the monsoon season, the water levels rise drastically and heavy rainfall makes it difficult to visit the falls.\n
+    \nTips for Travellers:\n
+    There are no restaurants available near the waterfalls. The locals usually set up stalls in the surrounding regions, selling biscuits and oily food items. If you do choose to purchase a packet of biscuits, make sure you check its date of expiry. However, it is advisable that you carry food with you for the trip duration or return to Jagdalpur and eat over there.\n
+    \nHow to Reach Tirathgarh Falls:\n
+    The Tirathgarh Falls are located in the Kanger National Park. The falls are towards the south-west of Jagdalpur and at a distance of 35 km from the town. The Tirathgarh Falls can be approached from Darbha, i.e., from near the state highway connecting Jagdalpur and Sukma. Visitors can take a jeep from the Darbha junction towards Tirathgarh Falls and other nearby attractions (which include Kailash and Kotumsar Cave).
+    The Tirathgarh falls is an excellent tourist destination due to its natural beauty. It accurately resembles the influence of nature on an area. Tourists enjoy their time in the activities that are made available to them. One can surely visit the falls with family and friends to enjoy the scenic and magnificent beauty of it.
+    </string>
+    <string name="tirathgarh_falls">Tirathgarh Falls</string>
+    <string name="bmw">Indravati National Park, Dantewada Overview:\n
+The only tiger reserve in the green state of Chhattisgarh, Indravati National Park boasts of a wildlife population larger than many others in the country. It is among the three royal tiger reserves this state, the other being Achanakmar and Undanti-Sitandadi tiger reserves. Deriving its name from the Indravati River in much proximity, the national park is said the be one of the best in the state.
+It is frequented quite often by travellers and wildlife enthusiasts who make it a point to visit this beautiful strip of dense flora and fauna. One can find the rare and endangered Wild Asian Buffalo at the park, along with Nilgai, Black Buck, Sambar, Gaur, Tiger, Leopard, Chital, Sloth bears and countless other species of fauna.
+\n\nBest Time To Visit Indravati National Park:\n
+Indravati National Park can be enjoyed to the fullest if visited during the winter and the summer seasons. Winters begin in the month of November and last till February while summers begin in March and last till June in the region.  The winter temperatures hover between 30ᵒC and 13ᵒC and the coldest months are December and January. During the summer season, the temperature spikes up to 40ᵒC (mostly in the month of May). Otherwise, it remains between 36ᵒC and 27ᵒC. These seasons, therefore, are recommended to visit the park.
+\n\nStay Near Indravati National Park:\n
+Forest Rest house are available at Pharsegarh, Sendra, Pengunda, Karkeli and Kutru . Otherwise one can put up at Jagalpur, keeping it as base and taking a day trip to the park. Tourists can also choose to stay one of the cities in Chhattisgarh to stay at and travel the distance to the national park. Hotels at Raipur, Durg, Bijapur, Dantewada etc. can be useful but some options may not be as expected.   </string>
+    <string name="cm">
+        \nFood At Indravati National Park :\n
+ There are very few restaurants and eateries near Indravati National Park. Most of them are local eateries and inside the Park, tourists would hardly find anything. They are advised to carry enough food and water along with them. Some may also choose to cook at a safer location inside the national park.
+\n\nHow to reach Indravati National Park:\n
+* Air: Raipur (486 km) is the nearest airport\n
+* Rail: The nearest railway station is Jagdalpur (168 km) from which easy access is available in the form of buses.\n
+* Road: Indravati National Park is easily approachable from Jagdalpur, the district headquarters of Bastar. Kutrue is the main entry point of the park which is situated 22.4 km north of Jagdalpur- Bhopalpattanam road. The Kutrue link road is at the distance of 145.6 km from Jagdalpur.\n
+    </string>
+    <string name="indravati_national_park">Indravati national park</string>
+    <string name="lr">Chitrakote Falls:\n
+* Chattisgarh  India\n
+* Weather :   38° C\n
+* Ideal time : 2 - 4 hrs\n
+* Entry Fee : No Entry Fee\n
+* Timings : 24 hrs\n
+\n\nChitrakoot Falls, Chhattisgarh Overview:\n
+The broadest waterfall in India, Chitrakote is popularly known as the Niagara of India, because of its horseshoe-like shape. Situated in the west side of Jagdalpur in the Bastar District of Chhattisgarh, this waterfall originates from the Indravati river. Chitrakote Falls is at the height of about 30 metres with a width of 985 feet, and during monsoons, you can watch the falls at its full glory. A major attraction below the fall is the shrine of Lord Shiva with many small Shiva lingas. During the low season, locals and tourists are seen to be swimming, bathing or even using paddle boats on the river. This scenic beauty is sure to stun you in awe.
+The waterfall is sourced from the Indravati river which flows westwards towards Jagdalpur and cascades down from a descent of 30m from the top of the cliff in 3 streams during summers, but the falls stretch over the whole width of 300 meters and plunge down as a magnanimous blanket of glorious roaring water during monsoon months when the river Indravati is at its maximum flow capacity. When you see the sheer force with which the water descends from the cliff and strikes the underlying surface engulfing everything that sets path in its course in a white mist, you will see that it has rightly been nicknamed the Niagara Falls of India, it is also around one-third the width of Niagara Falls. All in all Chitrakoot is perfect for day picnics, stunning panoramic views or just some time away from the commotion of the cities for detoxing amidst nature.</string>
+    <string name="ms">\nBest Time To Visit Chitrakoot Falls:\n
+The best time to visit the Chitrakoot falls is during the monsoon months from July to October, the flow from the Indravati river is at its peak and the waterfall is in its full glory.The winters are also a great time to visit, the climate is very pleasant and the water is milky white.
+   \n\n How To Reach Chitrakoot Falls:\n
+The nearest airport is the Raipur airport around 285 kilometers from the water falls and the closest station is the Jagdalpur railway station, you can get a shared taxi or a private taxi from the station up to the falls. The cheapest way to get to the falls are the state run buses that ply from Jagdalpur to Chitrakoot falls, there are around 4-5 buses running everyday and take to 2 hours to cover a distance of 38 kilometers.</string>
+    <string name="chitrakote_falls">Chitrakote Falls</string>
+    <string name="ab">Barnawapara Wildlife Sanctuary, Chhattisgarh Overview:\n
+One of the most famous tourist attractions in Chhattisgarh, the Barnawapara Wildlife Sanctuary is home to the Bar and Nawapura forest villages. It was established in the year of 1976 and is spread over a vast area of 245 sq. Km. The rich and lush vegetation caters to a broad spectrum of wildlife in this region. The landscape is mostly flat terrain with occasional low and high hillocks.
+\n\nBarnawapara Wildlife Sanctuary - Entry Fee and Timings :\n
+The Barnawapara Wildlife Sanctuary operates from 6:45 AM to 11 AM and then from 2:30 PM to 5:30 PM during the summer season. The operating hours are from 6 AM to 10:30 AM and then from 3 PM to 6:30 PM during the winter season. The sanctuary remains closed from 1st July to 31st October, owing to the monsoons.
+    \nt\The entry fee is INR 55 per person for Indian tourists and INR 200 per person for foreign tourists. A guide can be requested with an additional cost of INR 250. A safari is also available with different rates depending on the kind of vehicle opted. However, booking for the safari will have to be done in advance through resorts or tour operators. Charges for 30 km can vary from INR 1300 to INR 2800 for a gipsy vehicle, which is usually an eight seater. There is no fee charged for photography or videography for non-commercial purposes. </string>
+    <string name="bc">\nMajor Attractions in Barnawapara Wildlife Sanctuary:\n
+The Barnawapara Wildlife Sanctuary is home to Neelgai, wild boar, tigers, leopards, porcupine, pythons, antelopes, sambhar and Cheetal, along with 150 species of birds including parrots, Black Bucks, herons, egrets, peafowl etc. Another sight to behold is the barking deer. The fearless Indian bison, also known as ‘Gaur’ is regarded as the main offering of the Barnawapara Wildlife Sanctuary. The sanctuary is part of a tropical dry deciduous forest, and the plethora of flora include Mahua, Semal, Tendu Ber etc. There is also a canteen available on the premises for the benefit of the travellers
+\n\nBest time to Visit Barnawapara Wildlife Sanctuary :\n
+The best time to visit the Barnawapara Wildlife Sanctuary is between November and June when the weather conditions remain pleasant. Travellers are requested to note that the sanctuary remains closed during the monsoon season.
+\n\nHow To Reach Barnawapara Wildlife Sanctuary :\n
+The Barnawapara Wildlife Sanctuary is located around 100 km from Raipur and around 45 km from Mahasumund City. The nearest airport is the Swami Vivekanand Airport of the capital city, Raipur. It is at a distance of 85 km from the Barnawapara Wildlife Sanctuary. The nearest railway station is located in Mahasamund, at a distance of 60 km. There are no direct buses available. Private cars or taxis can be hired from Raipur to travel to the sanctuary by road.</string>
+    <string name="barnawapara_wildlife_sanctuary">Barnawapara Wildlife Sanctuary</string>
+    <string name="ij">Mainpat, Chhattisgarh Overview:\n
+Mainpat is an underrated hill station with green pastures, deep valleys, breathtaking waterfalls, dense forests and untouched rivulets. The hill station hasn’t been completely commercialised yet and receives a relatively smaller influx of tourists compared to its counterparts. Mainpat is often called as Shimla of Chhattisgarh and Mini Tibet owing to its huge Tibetan population and influence over the area. The Tibetan refugees were rehabilitated in Mainpat after the Chinese invasion of Tibet and have since found a home in Mainpat. That’s another great thing about Mainpat, the confluence of cultures and diverse traditions only add to the picturesque village’s charm.
+    Places to See
+1. Dhakpo Shedupling Monastery\n
+    2. Fish Point\n
+    3. Tiger Point\n
+    4. Parpatiya Sunset Point\n
+    5. Mehta Point\n
+    \n\nBest Time To Visit Mainpat:\n
+The best time to visit Mainpat is during the monsoon and winter months, one can truly experience the cool and invigorating atmosphere of the hills during these months with outspread greenery and sweeping views of the hills
+    </string>
+    <string name="kl">
+        \nStay Near Mainpat:\n
+Mainpat has a host of accommodation options for every pocket with a good number of budget hotels. There is a government rest house called Shaila at Mainpat, it does require an advance booking and scheduling. There is also an expansive resort called Mercury Resort, it is also the most well-known accommodation in Mainpat. The resort has a host of activities like zorbing, trekking, rappelling for its visitors. There is also a Tiger Falls Camping Resort that provides you with a camping experience and adventure activities like hiking.
+\n\nTips For Visiting Mainpat:\n
+1. Avoid visiting during the summers, the water bodies dry up and the climate leans towards the hotter side.\n
+2. Donnot travel to Mainpat after sundown, the road from Ambikapur isnot that great and may be difficult to traverse in the dark.\n
+3. Mainpat does not have a lot of street signs and directions deployed for its tourist attractions, ask the locals if you don know the way because cellular network in the hill station is not very strong so you cannot completely rely on the internet.\n
+\n\nHow To Reach Mainpat:\n
+The nearest airport is the Raipur airport about 380 kilometres from Mainpat and the nearest railway station is Ambikapur over 80 kilometres from Mainpat. There are buses and taxis available from Ambikapur to Mainpat.
+    </string>
+    <string name="mainpat">Mainpat</string>
+    <string name="rajasthan">Rajasthan</string>
+    <string name="ee">About Jaipur:\n
+Jaipur is affectionately referred to as the Pink City because of the pinkish color of its Old City. The city, which is surrounded by rugged hills and besieged walls, is full of fascinating royal heritage and evocative well-preserved buildings. As well as being Rajasthan capital, Jaipur is part of Indias famous Golden Triangle Tourist Circuit. This makes it one of the busiest and most iconic cities in the state, with a population of about 3 million people.
+In July 2019, Jaipur was recognized as a UNESCO World Heritage site. However, it has also evolved to become quite hip with lots of cool cafes, shops, and artist spaces opening up. Plan your trip there with this Jaipur information and city guide.
+\n\nBest Time to Visit: \n
+Jaipur has a very hot and dry desert climate. During the summer months from April to June, temperatures rise to 40 degrees Celsius (104 degrees Fahrenheit) or more. Monsoon rain is received, mostly in July and August. However, daytime temperatures still remain above 30 degrees Celsius (86 degrees Fahrenheit). The most pleasant time to visit Jaipur is during the winter, from November until March. Winter temperatures average 25 degrees Celsius (77 degrees Fahrenheit). Nights can be very chilly though, with temperatures dropping to 5 degrees Celsius (41 degrees Fahrenheit) in January.
+    </string>
+    <string name="love">\n\nGetting There:\n
+Jaipur is located approximately 260 kilometers (160 miles) southwest of Delhi. Travel time by road is about four hours. Jaipur is also about four hours from Agra in Uttar Pradesh, and you can stop at Chand Baori step well in Abhaneri village along the way.
+Jaipur is well-connected to the rest of India. It has a domestic airport with frequent flights to and from Delhi, and other major cities. Indian Railways super fast train services operate along the route and its possible to reach Jaipur in under five hours from Delhi. Here are the best trains from Delhi to Jaipur. The bus is another option, and you will find services to and from many destinations. A useful website for checking out bus timetables is that of the Rajasthan State Road Transport Corporat</string>
+    <string name="jaipur">Jaipur</string>
+    <string name="jodpur">Jodpur</string>
+    <string name="ii">About Jodhpur :\n Jodhpur is the second-largest city in the Indian state of Rajasthan and officially the second metropolitan city of the state. It was formerly the seat of a princely state of the same name. Jodhpur was historically the capital of the Kingdom of Marwar, which is now part of Rajasthan. Jodhpur is a popular tourist destination, featuring many palaces, forts and temples, set in the stark landscape of the Thar Desert. It is popularly known as Blue city and Sun city among people of Rajasthan and all over India.The city is also said to be the cultural capital of Rajasthan state.
+The old city circles the Mehrangarh Fort and is bounded by a wall with several gates. The houses in the old city are typically painted in a blue hue probably to escape heat or for adornment, giving the city its nickname "Blue City".However, the city has expanded greatly outside the wall over the past several decades. Jodhpur lies near the geographic centre of the Rajasthan state, which makes it a convenient base for travel in a region much frequented by tourists.\n
+\nClimate:\n
+The climate of Jodhpur is hot and semi-arid during its nearly yearlong dry season, but contains a brief rainy season from late June to September (Köppen BSh). Although the average rainfall is around 362 millimetres (14.3 in), it fluctuates greatly. In the famine year of 1899, Jodhpur received only 24 millimetres (0.94 in), but in the flood year of 1917 it received as much as 1,178 millimetres (46.4 in).\n</string>
+    <string name="io">\n\nTransport:\n
+* Railways:\n
+Jodhpur railway station is the divisional headquarters of the North Western Railways (NWR). It is well connected with railways to major Indian cities like Alwar, Delhi, Mumbai, Kolkata, Chennai, Bangalore, Thiruvanathapuram, Kochi, Pune, Kota, Kanpur, Bareilly, Hyderabad, Ahmedabad, Indore, Bhopal, Dhanbad, Patna, Guwahati, Nagpur, Lucknow, Gwalior, Jaipur etc.
+\n* Air:\n
+Jodhpur Airport is one of the prominent airports of Rajasthan. It is primarily a military airbase with a civil enclosure to allow for civilian air traffic. Due to Jodhpur strategic location, this airport is regarded as one of the most important ones for the Indian Air Force.
+\n* Road:\n
+Jodhpur is connected by road to all major cities in Rajasthan and neighboring states like Delhi, Ahmedabad, Surat, Ujjain, and Agra. Apart from deluxe and express bus services to cities within the state, Rajasthan Roadways provides Volvo and Mercedes Benz bus service to Delhi, Ahmedabad, Jaipur, Udaipur, and Jaisalmer. Recently, Bus Rapid Transit System (BRTS) is launched in the city with low floor and semi-low floor buses plying on major routes.</string>
+    <string name="mount_abu">Mount Abu</string>
+    <string name="yt">About Mount Abu :Mount Abu is a hill station in the Aravalli Range in Pindwara - Abu Assembly Constituency Of Sirohi district of Rajasthan state in western India,
+near the border with Gujarat. The mountain forms a rocky plateau 22 km long by 9 km wide. The highest peak on the mountain is Guru Shikhar at 1,722 m (5,650 ft)
+ above sea level. It is referred as an oasis in the desert as its heights are home to rivers, lakes, waterfalls and evergreen forests.
+The nearest train station is Abu Road railway station: 28 km away.\n</string>
+    <string name="yr">\n\nTourism:\n
+Mount Abu town, the only hill station in Rajasthan, is at an elevation of 1,220 m (4,003 ft). It has been a popular retreat from the heat of Rajasthan and neighbouring Gujarat for centuries.
+The mountain is home to several Hindu temples, including the Adhar Devi Temple (also known as Arbuda Devi Temple), carved out of solid rock; the Shri Raghunathji Temple; and a shrine and temple
+ to Dattatreya built atop the Guru Shikhar peak; and the Achaleshwar Mahadev Temple (1412).
+</string>
+    <string name="ranthambore_national_park">Ranthambore national park</string>
+    <string name="gv">About Ranthambore:\n
+Ranthambore National Park is one of the biggest and most renowned national park in Northern India. The park is located in the Sawai Madhopur district of southeastern Rajasthan, which is about 130 km from Jaipur. Being considered as one of the famous and former hunting grounds of the Maharajas of Jaipur, today the Ranthambore National Park terrain is major wildlife tourist attraction spot that has pulled the attention of many wildlife photographers and lovers in this destination.\n
+\n\nHotels and ResortsHotels and Resorts:\n
+* Sherbagh\n
+* Tiger Den Resort\n
+* Tiger Moon Resort\n
+* Vanya Vilas Resort\n
+\n\nTransport:\n
+* By Road:\n</string>
+    <string name="gb">The Ranthambore Park is directly connected through the road with all the major cities and town of India. By availing the state bus service or hiring the private buses and taxis, tourists can easily reach the Ranthambore Park from the cities like Jaipur, Jodhpur, Kota, Delhi, Agra, Mumbai, Ahmedabad, Ajmer, etc.\n
+* By Air:\n
+The Jaipur International Airport, which is located in the Sanganer, a suburb in Jaipur, is the nearest airport from the Ranthambore Park. The distance between the Airport and the park is 160 km which can be traveled either by the road or by the train. There are regular flights to Jaipur from all the major cities of India.\n
+* By Rail:\n
+The easiest way to reach the Ranthambore is the train route. The Sawai Madhopur railway station is the nearest railway station from the Ranthambore Park. The station is located at the distance of about 11 km from the park and the tourist can catch the local bus, taxi or cab to reach the Ranthambore Park from the Sawai Madhopur station.\n
+
+</string>
+    <string name="udaipur">Udaipur</string>
+    <string name="fd">About Udaipur:\n Udaipur also known as the "City of Lakes", is a city in the state of Rajasthan in India.It is the historic capital of the kingdom of Mewar in the former Rajputana Agency. It was founded in 1558 by Udai Singh II of the Sisodia clan of Rajput,when he shifted his capital from the city of Chittorgarh to Udaipur after Chittorgarh was besieged by Akbar. It remained as the capital city till 1818 when it became a British princely state, and thereafter the Mewar province became a part of Rajasthan when India gained independence in 1947.\n\t
+The city is located in the southernmost part of Rajasthan, near the Gujarat border. It is surrounded by the Aravali Range, which separates it from the Thar Desert. It is around 660 km from Delhi and approximately 800 km from Mumbai, placed almost in the middle of two major Indian metro cities. Besides, connectivity with Gujarat ports provide Udaipur a strategic geographical advantage.Udaipur is well connected with nearby cities and states by means of road, rail and air transportation facilities, including Maharana Pratap Airport. Common languages spoken include Hindi, English and Rajasthani (Mewari).
+\n\nClimate:\n
+Udaipur city has a hot semi-arid climate. The three main seasons, summer, monsoon and winter respectively, dominate the city of Udaipur. Being located in the desert lands of Rajasthan, the climate and weather of Udaipur is usually hot. The summer season runs from mid-March to June and touches temperature ranging from 23 °C (73 °F) to 44 °C (111 °F) in the months of March to June. Monsoons arrive in the month of July heralded by dust and thunderstorms.\n</string>
+    <string name="fs">\n\nLocation:\n
+* Air:\n
+Maharana Pratap Airport,is a small domestic airport situated in a satellite town about 20 kilometres from Udaipur. Daily flights connect Udaipur with Jaipur, Mumbai, Delhi, Chennai, Aurangabad, Bangalore, Hyderabad, Surat and Varanasi .\n
+* Rail:\n
+Udaipur City railway station and Rana Pratap Nagar railway station are two railway stations in Udaipur. Through them, Udaipur has direct train connectivity on the broad gauge network to most of the major cities in Rajasthan and the rest of India such as Mysuru, Khajuraho, Alwar, Jaipur, Kota, Chittorgarh, Ajmer, Delhi, Mumbai, Kolkata, Ratlam, Indore, Ujjain, Mumbai, Surat, Vadodara, Gwalior and Agra and a broad gauge conversion is going on to Ahmedabad.\n
+* Road:\n
+The city lies on the intersection point of East West Corridor, Golden Quadrilateral, National Highway (NH) 76 and National Highway (NH) 8, midway between Delhi and Mumbai, located around 700 kilometres from either city.The East West Corridor which starts from Porbandar and ends at Silchar is intersecting the Golden Quadrilateral and shares the common space from Udaipur to Chittor.
+    </string>
+    <string name="andhra_pradesh">Andhra Pradesh</string>
+    <string name="one">Visitor Information:\n
+* Famous for: History, Heritage, Cuisine.\n
+* Major Attractions: Gandikota Fort and Bellum Caves.\n
+* Nearby Places: Hampi, Puttaparthi.\n
+* Ideal Visit Time: 1 day or less.\n
+\nAbout Kadapa:\n
+Kadapa literally means a ‘Gateway’. This name owes to its special location which acts as a gateway to the pilgrim spot of the Tirumala Hills. The town was a part of the various ancient kingdoms of the South and it’s famous for its various temples and forts that exemplify a marvelous Dravidian style architecture and prowess of the artisans when it comes to stone carving. The Bellum Caves are few of the longest caves in the Indian subcontinent and a spot that one shouldn’t miss. The town got its economic boom when the large deposits of natural Uranium were discovered here and is one of the world’s top 20 reserves of the nuclear fuel. The Shree Venkateswara Wildlife Sanctuary located here is also a great spot worth visiting and is rich with flora, fauna and some breathtaking views. Major tourist places in Kadapa include:
+\n\nPlaces of Interest:\n
+* Belum Caves\n
+* Gandikota Fort\n
+* Sidhout Fort\n
+* Bhagvan Mahavir Government Museum\n
+* Sri Venkateswara Wildlife Sanctuary\n
+* Pushpagiri\n
+* Ontimitta\n
+* Ameen Peer Dargah\n</string>
+    <string name="two">\n\nHow to Reach:\n
+* Air:\n
+Kadapa Airport, the nearest airport, has flights only from Hyderabad and therefore is not directly connected to any other major city in India. The next best option is Tirupati airport which is connected to the majority of cities in India. A cab can be taken from the airport to Kadapa about 2 h 42 min (136.4 km) away.
+\n* Rail:\n
+Cuddapah railway station (HX) in the city is connected to majority of cities of India through the Mumbai-Chennai line. Take a cab from the station to any part of the city.
+\n* Road:\n
+Andhra Pradesh State Road Transport Corporation (APSRTC) connects Kadapa to all the cities in Andhra Pradesh. It also operates interstate buses. NH40 passes through this cit</string>
+    <string name="kadapa">Kadapa</string>
+    <string name="three">Visitor’s Information:\n
+* Famous for: History, Nature, Fauna, Godavari.\n
+* Major Attraction: Coringa Wildlife Sanctuary.\n
+* Nearby Places: Rajahmundry, Visakhapatnam\n
+* Ideal Visit Time: 1 day or less.\n
+\nAbout Kakinada:\n
+Kakinada is an ancient historical town which has many attractions for everyone. A part of Godavari delta is present here, encouraging flora growth. Come to Kakinada if you want a perfect amalgamation of history and nature!</string>
+    <string name="four">\n\nHow to Reach:\n
+* Air:\n
+Rajahmundry Airport is the nearest airport and has connectivity from Bangalore,Chennai and Hyderabad. A cab can be taken from the airport to Kakinada about 1 hr 23 min (63.5 km).
+\n* Rail:\n
+Kakinada Town railway station (CCT) in the city is connected to majority of cities in India like Bangalore, Chennai, Hyderabad, Coimbatore, Mumbai, New Delhi, and Kolkata. Take a cab from the station to any part of the city. The other option can also be Kakinada Port railway station (COA), which is also well connected.
+\n* Road:\n
+Andhra Pradesh State Road Transport Corporation (APSRTC) connects Kakinada to all the cities in Andhra Pradesh. It also operates interstate buses. NH16 passes through this city. A sandspit formed by Godavari, called Hope Island is yet another attraction of this town.
+Being a part of the ancient kingdoms of the southern India, Andhra Pradesh is one of the major sources of Dravidian culture and history. With numerous tourist places in Andhra Pradesh, vast natural resources, varied climatic conditions and numerous ancient temples is a great location which will definitely make you look into the history book</string>
+    <string name="kakinada">Kakinada</string>
+    <string name="five">Visitor Information:\n
+* Famous for: Tirupati Balaji, Hinduism.\n
+* Major Attractions: Venkateswara Temple and Govindaraja Temple.\n
+* Nearby Places: Srikalahasti, Chittoor.\n
+* Ideal Visit Time: 1-2 day.\n
+\n\nAbout Tirupati:\n
+Tirupati is one of the major cultural and religious pilgrimage spots in India. The city is located at the southern part of Andhra Pradesh and is situated at the foothills of the Eastern Ghats in the Chittor district. Although the major language spoken here is Telugu, the word Tirupati is a Tamil word as saint Ramanujacharya who was a Tamil Vaishnava saint was responsible for founding this city. The town is famous for its temple dedicated to ‘Balaji’, a form of Lord Vishnu. The temple’s foundation history is unknown and it was expanded over the centuries by various kingdoms and dynasties including the Chola, Pallava and the Vijaynagar Empire. The temple is one of the major pilgrimage spots in India and especially in the southern India. Apart from the temples, there are various other attractions like parks and zoos.</string>
+    <string name="six">\n\nPlaces of Interest:\n
+* Sri Venkateswara Temple\n
+* Talakona Waterfalls\n
+* TTD Gardens\n
+* Deer Park\n
+* Sri Vari Museum\n
+* Sri Govindarajaswami Temple\n
+* Srikalahasti\n
+* Kanipakam\n
+\nHow to Reach:\n
+* Air:\n
+Tirupati Airport (TIR) is the nearest domestic airport that is connected to all major cities in India. A cab can be taken from the airport to the city.
+\n* Rail:\n
+Tirupati railway station (TPTY) in the city is connected to majority of cities in India. Take a cab from the station to any part of the city. Tirupati is India’s most booked railway station and therefore be sure to book your tickets well in advance.
+\n* Road:\n
+Andhra Pradesh State Road Transport Corporation (APSRTC) connects Tirupati to all the cities in Andhra Pradesh. It also operates interstate buses at a regular frequency to Tirupati. The national highways passing through this city are NH140 and NH716.
+</string>
+    <string name="thirupathi">Thirupathi</string>
+    <string name="seven">Visitor Information:\n
+* Famous for: Caves, History, Nature.\n
+* Major Attractions: Undavalli Caves\n
+* Nearby Places: Guntur, Amaravathi, Ongole.\n
+* Ideal Visit Time: 2 days.\n
+\nAbout Vijayawada:\n
+Vijayawada, being the third largest city of Andhra Pradesh is number 3 on this list. The city is an agriculturally rich state and has been recognized as
+the Global city of the future by McKinsey. The former name of the city was Bezawada and has been under the rule of various ancient kingdoms of the South
+ and has been one of the places the Chinese pilgrim Hieun Tsang stayed at. The River Krishna runs through the city and is located at the hills of the Eastern
+Ghats. The city’s location is unique as well as to its west lies the deep jungles of the Kondapalli Reserve Forests which is known to house leopards, jackals,
+ wolves, wild boar and wild dogs. The city itself is a cultural and religious center with its various temples, religious monuments, rivers, ancient caves and
+many more. Do not forget to buy the famous Kondapalli Toys as souvenirs. </string>
+    <string name="eight">\n\nPlaces of Interest:\n
+* Undavalli Caves\n
+* Mogalarajapuram Caves\n
+* Prakasam Barrage\n
+* Bhavani Island\n
+* Victoria Museum\n
+* Kondapalli Fort\n
+* Kolleru Lake\n
+* Gandhi Hill\n
+\n\nHow to Reach\n
+* Air:\n
+The Vijayawada Airport is the major airport in the city and has connectivity from all major cities in India. A cab can be taken from the airport to any part of the city.
+\n* Rail:\n
+Vijayawada Junction railway station (BZA) in the city is connected to majority of cities in India. Take a cab from the station to any part of the city.
+\n* Road:\n
+Andhra Pradesh State Road Transport Corporation (APSRTC) runs interstate and intrastate buses to and fro on a regular basis. The national highways passing through Vijaywada are NH16 and NH4</string>
+    <string name="vijayavada">Vijayavada</string>
+    <string name="nine">Visitor Information:\n
+* Famous for: Beaches, Caves and Ports.\n
+* Major Attractions: Kailasagiri and RK Beach.\n
+* Nearby Places: Ananthagiri, Vizianagaram.\n
+* Ideal Visit Time: 2-3 days.\n
+\n\nAbout Visakhapatnam:\n
+Visakhapatnam was the second largest city in Andhra Pradesh and a major sea port of India. However, with the recently announced Telangana State, Vishakhapatnam will now be the largest city of Andhra Pradesh and a probable Capital of the future state of Andhra Pradesh. The climate is tropical and humidity is high throughout the year. The city has all the necessary attractions and resources to make it one of the top tourist destinations in India. Its various beaches, hilltops and a wildlife sanctuary attract a major tourist crowd. The place is the major port of the Indian National Army and is the deepest ports of India. There are various valleys like the Araku Valley, which is a picturesque location for picnics and is a hill station that has some really great trekking hotspots. The various beaches like Yarada and Rishikonda are situated in some of most picturesque locations and are relatively clean and are frequented by many tourists.</string>
+    <string name="ten">\n\nPlaces of Interest:\n
+* Borra Caves\n
+* Araku Valley\n
+* Yarada Beach\n
+* Rishikonda Beach\n
+* Katiki Waterfalls\n
+* Indira Gandhi Zoological Park\n
+* Kailasagiri Hill Park\n
+* VUDA Park\n
+\n\nHow to Reach:\n
+* Air:\n
+Visakhapatnam Airport (IATA: VTZ, ICAO: VOTZ) is the major airport about 12 kms away from the city centre and caters both domestic and international flights. A cab can be taken from the airport to any part of the city.
+\n* Rail:\n
+Visakhapatnam railway station (VSKP) in the city is connected to majority of cities in India. Take a cab from the station to any part of the city.
+\n* Road:\n
+Andhra Pradesh State Road Transport Corporation (APSRTC) connects Vishakhapatnam to all the cities in Andhra Pradesh. It also operates interstate buses from Dwaraka bus station in Visakhapatnam. The national highways passing through this city are NH16 and N</string>
+    <string name="visakhapatnam">Visakhapatnam</string>
+    <string name="bihar">Bihar</string>
+    <string name="eleven">Bodh Gaya Information:\n
+* Bihar,India\n
+* Weather:  28° C\n
+* Best Time: Oct-Mar Read More\n
+* Ideal duration: 1-3 days\n
+* Nearest Airport: Bodh Gaya Check Flights\n
+\n"Buddha, Mahabodhi Tree and the land of Nirvana"\n
+\nBodh Gaya Tourism:
+Bodh Gaya is a Buddhist pilgrimage site in Gaya District of Bihar. Famous for the Mahabodhi Temple, It was here under the Bodhi tree that Gautama Buddha attained enlightenment
+It is now one of the UNESCO World Heritage Sites, and a lot of foreign countries, including Japan and China, have helped the Indian government in building facilities for the Buddhist pilgrims. The place is bustling with pilgrims all through the year from India and abroad who come to pay their homage in monasteries, temples and remnants of Bodhi Tree.
+Located near the river Neranjana, Bodh Gaya was earlier known as Uruwela. It was also known as Sambodhi, Vajrasana or Mahabodhi until the 18th century CE. It is one of the four important Buddhist sites that include: Kushinagar, Lumbini and Sarnath.</string>
+    <string name="twele">\nTransport:\n
+* Road/Self Drive:\n
+A lot of taxi operators provide cab services to Gaya. Though Gaya is just 3 hours away from Patna (if you avoid the Gaya market) but very few travellers would prefer to drive from Patna or other nearby towns to Bodh Gaya. The road connecting to Gaya is quite rough and not many people would be comfortable to drive on the rocky path as the journey would take long
+\n*  By Train:\n
+The nearest rail head is Gaya Junction, which is 13 kilometres away from Bodh Gaya. It is well-connected to major Indian cities. Once you reach at the Gaya railway station, you can reach the holy town by hiring any local taxi from there. The taxi charge will vary and depend upon the time of the day your trains reaches. Some of the regular trains are Sealdah-New Delhi Rajdhani Express, Howrah Rajdhani Express, Howrah-New Delhi Rajdhani Express and Kolkata Mail.
+The second nearest railway station is in Patna which is 110 kilometres away from Bodh Gaya. Patna rail head boasts of a good connectivity and most of the Indian cities including metros like Bengaluru, Delhi, Hyderabad, Mumbai and Pune are linked with the Patna railhead
+\n*  By Bus:\n
+A main road connects the town of Bodh Gaya to the city of Gaya. Bihar State Tourism Corporation runs bus services (standard as well as deluxe buses) from Patna to Bodh Gaya twice daily. Apart from Patna, bus services are also available from Nalanda, Rajgir, Varanasi and Kathmandu. Now, a new line of luxury air-conditioned Volvo buses have been introduced that connect Bodh Gaya with nearby towns and cities.
+    </string>
+    <string name="bodh_gaya">Bodh-Gaya</string>
+    <string name="thirteen">About Nalanda:\n
+* Bihar  India\n
+* Weather:  28° C\n
+* Best Time: Oct-Mar\n
+* Ideal duration: 1 day\n
+* Nearest Airport: Patna Check Flights\n
+\n"The Ancient Seat of Knowledge"\n
+Nalanda Tourism:\n
+The most popular Mahavihara of the ancient times, a significant Buddhist seat of academic excellence and a modest pilgrim center, all wrapped in a wisp of spirituality, Nalanda continues to be an equally enriching location in the present. It offers vibrant substance of spirituality, history, culture, architecture, and tourism.
+This city houses one of the worlds oldest and finest residential universities which itself was an architectural masterpiece. Although in ruins, the entire complex presents a pretty picture and is flocked by tourists day in and day out. It has “viharas” or monasteries to the east and “chaiyas” or temples to the west. In addition to this, the complex houses a charming little museum, which has a collection of several of original Buddhist stupas, Hindu and Buddhist bronzes, coins, terracotta jars, a sample of burnt rice etc. The district is believed to be a cradle of religions. Apart from Buddhism, it is an important center for Jainism, Hinduism, and Sufism as well. Considering the rich heritage and the historical importance, it is a hot tourist destination.</string>
+    <string name="fourteen">\n\nHow to Reach:\n
+* Air: The nearest airport is at Patna 89 km. Indian Airlines connect Patna to Calcutta, Ranchi, Bombay, Delhi and Lucknow.\n
+* Rail: Though Rajgir (12 km) is the nearest railway station to Nalanda yet the nearest convenient rail head is at Gaya 95 km.\n
+* Road: Nalanda is connected by good road with Rajgir 12 km, Bodh Gaya 110 km, Gaya 95 km, Patna 90 km, Pawapuri 26 km, Bihar Sharif 13 km etc.\n
+* Local Transport: There are no taxis available in Nalanda. Cycle rickshaws and tongas are the only modes of transport\n
+    </string>
+    <string name="nalandha">Nalandha</string>
+    <string name="fifteen">About Patna:\n
+* Bihar  India\n
+* 131 Hotels found\n
+* Weather:  27° C\n
+* Best Time: Oct-Mar Read More\n
+* Ideal duration: 1-3 days\n
+* Nearest Airport: Patna Check Flights\n
+\n"The cradle of Empires"\n
+\nPatna Tourism:\n
+Prospering along the southern banks of river Ganges and set in the backdrop of a glorious historical past, Patna boasts of a dominating presence in history and enjoys the distinction of being one of the oldest cities in the world. In addition to being one of the major and most popular tourist destinations in India, this capital city of Bihar also holds significant religious and spiritual importance as it is a gateway to pilgrimage sites of Hindus, Sikhs, Jains and Buddhists.
+Originally called as Pataliputra, Patna is currently a hot-bed for the culminating political fortunes. One of the oldest continuously inhabited places in the world, it is the quintessential North Indian town  - West of the city lies the area called Bankipur, while towards the southwest is the new area with wide roads and swanky buildings. The cultural heritage of Bihar is reflected in the many monuments housed in Patna, the most famous ones being Patna Sahib Gurudwara, Patna Planetarium, the Highcourt, Golghar, Secretariat Building and Padri ki Haveli among numerous other attractions. Typical of an Indian city, the riverside city of Patna is also known for some palatable dishes - litti chokha being the king of all! </string>
+    <string name="sixteen">Originally called as Pataliputra, Patna is currently a hot-bed for the culminating political fortunes. One of the oldest continuously inhabited places in the world, it is the quintessential North Indian town  - West of the city lies the area called Bankipur, while towards the southwest is the new area with wide roads and swanky buildings. The cultural heritage of Bihar is reflected in the many monuments housed in Patna, the most famous ones being Patna Sahib Gurudwara, Patna Planetarium, the Highcourt, Golghar, Secretariat Building and Padri ki Haveli among numerous other attractions. Typical of an Indian city, the riverside city of Patna is also known for some palatable dishes - litti chokha being the king of all!
+\n\nTransport:\n
+* Air:\n
+Patna Airport known as Lok Nayak Jayaprakash Narayan International Airport is classified as a restricted international airport.[157] The arrival of several low-cost carriers and a number of new destinations have caused a growth in air traffic in recent years, as has an improvement in the situation with regard to law and order.
+\n* Rail:\n
+Patna is served by several railway stations located in different areas of the city. The Patna Junction railway station is the main railway station of the city, and one of the busiest railway stations in India.[161] Patna lies in between New Delhi and Kolkata on Howrah–Delhi main line, which is one of the busiest rail routes in India.
+\n* Road:\n
+Patna is well connected with roads to various major cities of Bihar like Munger, Jamalpur, Bhagalpur, Gaya, and Purnia.
+
+Patna is 1,015 kilometres (631 mi) East from Delhi, 1,802 kilometres (1,120 mi) North East from Mumbai,1,527 kilometres (949 mi) North from Hyderabad and 556 kilometres (345 mi) North West from Kolkata.
+    </string>
+    <string name="patna">Patna</string>
+    <string name="sseven">Valmiki National Park Overview:\n
+Located in the West Champaran district, Valmiki National Park is situated on the India- Nepal border on the banks of river Gandak. Sprawling over a humongous area, the park is divided into two sections- the wildlife sanctuary declared in the year 1978 covers and area of 545 sq km and the national park which was established in 1990 covering an area of around 335 sq km. The only wildlife reserve in the state of Bihar, Valmiki National Park is covered in dense green forests of the Himalayan Terai landscape. Flaunting of a flourishing wildlife with extensive varieties of flora, fauna and avifauna, the highlight of the region is Bengal tigers (22 in the region as of 2013). The government further plans to convert 800 hectares of the forest area into grasslands to make it the largest grassland in the country. Valmiki National Park gets its name from Valmiki Nagar- the adjoining town to the forests which is also the only possible entrance to the wildlife reserve.
+
+\n\nBest Time To Visit Valmiki National Park :\n
+Valmiki Tiger Reserve stays open from the 1st of October to the 31st of May. The best season to visit the sanctuary is between November to March for the reason that you can take the treks also easily without any exertions as the weather is pleasant; also, because you can spot the maximum number of wildlife- flora, fauna and avifauna during this time. However, winter months of December and January are a little cold when the mercury falls down to 3 - 4 degrees. In this season, remember to carry woollens with you.
+\n\nSafari Details and Charges:\n
+* Gypsy/ Jeep Safari (4 persons) for 2 hours 30 minutes - INR 600 per group
+* Rafting (8 persons) for 3 hours - INR 2000 per group
+* Boating (4 persons) for 3 hours - INR 500 per group
+* Nature Walk (4 - 6 persons) for 3 - 4 hours - INR 100 per person</string>
+    <string name="eeight">* Border Trek (10 - 15 persons) for 10 - 12 hours - INR 500 per person
+* Jungle Camp (4 - 6 persons) for a night - INR 200 per person
+* Tiger Trail (4 - 6 persons) for 3 - 4 hours - INR 200 per person
+* Cycling - INR 20 per hour
+\n\nHow To Reach Valmiki National Park:\n
+The nearest airports to Valmiki National Park are Gorakhpur and Patna. The region is also well-connected through an intensive network of roadways and railways. It takes only 2 hours to reach the sanctuary from Gorakhpur. Several roadways buses ply on the route and you can also hire a private vehicle to drive down.
+Direct trains are also available to reach the forest reserve from major cities of the country. It falls on the Gorakhpur- Muzaffarpur route. From other cities, you can arrive at Bagaha which is the western part of the sanctuary or Narkatiaganj which is the central or eastern part of the sanctuary. Otherwise direct trains to Bagaha and Narkatiaganj are also available from Gorakhpur or Muzaffarpur.
+    </string>
+    <string name="valmiki_national_park">Valmiki National Park</string>
+    <string name="more"><![CDATA[More>>]]></string>
+    <string name="union_teritories">Union Teritories</string>
+    <string name="aone">Delhi Tourism:\nAccording to Euromonitor International, Delhi ranked as 28th-most visited city in the world and first in India by foreign visitors in 2015. There are numerous tourist attractions in Delhi, both historic and modern. The three UNESCO World Heritage Sites in Delhi, Qutb Complex, Red Fort and Humayun s Tomb are among the finest examples of Indo-Islamic architecture. Another prominent landmark of Delhi is India Gate, a 1931 built war memorial to soldiers of British Indian Army who died during First World War.
+Delhi has several famous places of worship of various religions. One of the largest Hindu temple complexes in the world, Akshardham is a major tourist attraction in the city. Other famous religious sites include Lal Mandir, Laxminarayan Temple, Gurudwara Bangla Sahib, Lotus Temple, Jama Masjid and ISKCON Temple. Delhi is also a hub for shopping of all kinds. Connaught Place, Chandni Chowk, Sarojini Nagar, Khan Market and Dilli Haat are some of the major retail markets in Delhi. Major shopping malls include Select Citywalk, Pacific Mall, DLF Promenade, DLF Emporio, Metro Walk and Ansal Plaza.
+\n\nBest Place To Visit in Delhi:\n
+* Red Fort\n
+* Jama Masjid\n
+* Humayun tomb\n
+* Lodhi Gardens\n
+* Qutab Minar\n
+* Gandhu Smriti and Raj Ghat\n
+* India Gate\n
+* Bahai(Lotus) Temple\n</string>
+    <string name="bone">\n\nTransport:\n
+* Air:\n
+Hindon Domestic Airport in Ghaziabad was inaugurated by Prime Minister Narendra Modi as the second airport for the Delhi-NCR Region on 8 March 2019.
+A second international airport open for commercial flights has been suggested either by expansion of Meerut Airport or construction of a new airport in Greater Noida. The Taj International Airport project in Jewar has been approved by the Uttar Pradesh government.\n
+* Road:\n
+  -> NH 1 connects Amritsar in Punjab to New Delhi.\n 
+  -> NH 2 commonly referred as Delhi-Kolkata Road that runs through the states of Delhi, Haryana, Uttar Pradesh, Bihar, Jharkhand and West Bengal.\n
+  -> NH 8, now known as National Highway 48 connects the Indian capital city of New Delhi with the Indian Financial capital city of Mumbai via Jaipur and terminates at Chennai.\n
+  ->NH 10, connects Fazilka in Punjab, India to Delhi.\n
+  -> NH 24 connects the National capital Delhi to Uttar Pradesh state capital Lucknow running 438 kilometres (272 miles) in length.
+    </string>
+    <string name="delhi">Delhi</string>
+    <string name="cone">The Andaman and Nicobar Islands Information:\nIts a Union territory of India comprising 572 islands of which 37 are inhabited, are a group of islands at the juncture of the Bay of Bengal and the Andaman Sea.
+The territory is about 150 km (93 mi) north of Aceh in Indonesia and separated from Thailand and Myanmar by the Andaman Sea. It comprises two island groups, the Andaman Islands (partly) and the Nicobar Islands, separated by the 150 km wide Ten Degree Channel (on the 10°N parallel), with the Andamans to the north of this latitude, and the Nicobars to the south (or by 179 km). The Andaman Sea lies to the east and the Bay of Bengal to the west.
+The territory capital is the city of Port Blair. The total land area of the islands is approximately 8,249 km2 (3,185 sq mi). The territory is divided into three districts: Nicobar District with Car Nicobar as capital, South Andaman district with Port Blair as capital and North and Middle Andaman district with Mayabunder as capital.
+\n\nPopular Cities in Andaman and Nicobar Islands:\n
+* Port Blair\n
+* Baratang Island\n </string>
+    <string name="done">* Didlipur\n
+* Rangat\n
+* Haddo\n
+* Mayabunder\n
+\n\nLocal Transport:\n
+Taxis, autos, buses, minibuses are the mode of local transport in Port Blair and other tourist places. Two wheelers are available for hire in most of the places for sightseeing. In small islands like Swaraj Dweep and Shaheed Dweep, cycles are advisable for exploring places of interest.
+In Port Blair, pre-paid cab service is available at Airport (Arrival Hall) and Mohanpura, Opp. Bus terminus to all important outer islands connected by Road. Bus services are operated by Private Operators and also Transport department from Port Blair Mohanpura Bus Terminus to various places.
+</string>
+    <string name="andaman_and_nicobar_islands">Andaman And Nicobar Islands</string>
+    <string name="eone">Tourism in Jammu and Kashmir:\n
+Jammu and Kashmir is home to several valleys such as the Kashmir Valley, Chenab Valley, Sindh Valley and Lidder Valley. Some major tourist attractions in Jammu and Kashmir are Srinagar, the Mughal Gardens, Gulmarg, Pahalgam, Patnitop and Jammu. Every year, thousands of Hindu pilgrims visit holy shrines of Vaishno Devi and Amarnath which has had significant impact on the state economy.
+The Kashmir valley is one of the top tourist destinations of India. Gulmarg, one of the most popular ski resort destinations in India, is also home to the world highest green golf course.The decrease in violence in the state has boosted the state economy, specifically tourism.
+Jammu and Kashmir is also famous for its scenic beauty, flower gardens, apple farms and more. It attracts tourists for its unique handicrafts and the world famous Kashmiri Shawls.
+\n* Notes\n
+ Jammu and Kashmir is a disputed territory between India and Pakistan. Jammu and Kashmir has 42,241 km2 of area administered by India and 13,297 km2 of area controlled by Pakistan under Azad Kashmir which is claimed by India as part of Jammu and Kashmir.</string>
+    <string name="fone">\n\nTop Tourist Places To Visit In Jammu and Kashmir:\n
+*Srinagar
+\n* Pahalgam
+\n* Gulmarg
+\n*Sonamarg
+\n*Vaishno Devi
+\n\nTransport:\n
+\n* Air
+As the only airport with international standard in Jammu Kashmir, Srinagar airport is located 12 km away from mainland of city. Jet Airways, Air India, GoAir, IndiGo, Spicejet and Jet Konnect are operating for Srinagar airport. Flights from Jeddah, Mumbai, Delhi, Bangalore, Chandigarh, Jammu, Lucknow, and Bhubaneswar are easily available to reach Srinagar.
+\n* Road:\n
+Road transport provides best connectivity to the major and minor cities of state. Even since historic times, this region is known for its excellent road connectivity. Once, it used to fall en route the Silk route connecting parts of central Asia with Indian sub continent. Even pre-independence era was marked by the Jammu Kashmir has varied regions that offer different infrastructure to arrive through road in this region.
+    </string>
+    <string name="gone">About Goa:\n
+* Weather:  34° C
+\n* Best Time: November - February Read More
+\n* Ideal duration: 3-7 days
+\n* Nearest Airport: Goa Check Flights
+\n\nGoa Tourism:\n
+Lying on the west coast, Goa is one of the smallest states in India known for its brilliant beaches, scrumptious food and Portuguese heritage. Panjim, the capital city located in the centre is well-connected with an international airport and roads and trains run from North to South part of Goa.
+With a coastline stretching for over 100 kilometres, Goa has numerous beaches that attract millions of visitors. While Baga and Calangute are more popular among the Indian family crowd, Anjuna and Arambol draw a lot of foreign tourists. The beaches in South Goa are relatively lesser explored, but some of them like Agonda and Palolem are more beautiful.
+A former Portuguese colony, Goa also boasts of beautiful architecture from the colonial era with many churches and old-style bungalows. The people are quite friendly towards tourists and celebrate many festivals throughout the year. While the seafood is excellent, Goa has one of the best nightlife in the country with trendy bars, beach shacks, elegant cafes and many clubs and discotheques. Thanks to lower alcohol prices in the state, Goa is also great for younger tourists with relatively tighter pockets.
+\n\nPlaces to visit:\n
+1. Calangute Beach\n
+2. Basilica of Bom Jesus\n
+3. Water Sports in Goa\n</string>
+    <string name="hone">4. Fort Aguada\n
+5. Baga Beach\n
+6. Cruise in Goa\n
+\n\nTransport:\n
+* RAILWAY:\n
+Dabolim Goa Airport doesn’t have an own railway station.The closest railway station is Dabolim Railway Station, located at just 1 km from Goa Airport.You can get to Daboli Railway Station by either taxi or foot, which will take you no more than 20 minutes.Konkan high-speed Railway Station connects to Margao in South Goa, Tivim in North Goa, Carambolim and Ponda. It also links to Mumbai daily and takes about 8-9 hours.
+Other trains between Mumbai and Panaji take typically around 10-12 hours. There are also trains which travel past Mumbai to other northern areas.
+*BUS:\n
+Goa Tourism, the main tourism institution in Goa region, along with Kadamba Transport Corporation, has set a new shuttle service from Goa Airport.
+The shuttle bus covers the route Calangute – Panaji – Goa Airport.\n
+- Calagute to Goa Airport: INR 150.00\n
+- Goa Airport to Galagute: INR 150.00\n
+- Panaji to Goa Airport: INR 100.00\n
+    </string>
+    <string name="goa">Goa</string>
+    <string name="ione">Agra Tourism:\n
+City in Uttar Pradesh,Agra is a city in northern India’s Uttar Pradesh state. It is home to the iconic Taj Mahal, a mausoleum built for the Mughal ruler Shah Jahan’s wife, Mumtaz Mahal (who died in childbirth in 1631). The imposing main building features a massive dome and intricately carved white marble inlaid with precious stones. This is set behind a reflecting pool inside … Read more
+\n\nWhen to visit:\n
+May–Jun is very hot, before the Jul–Sep monsoon rains. Oct–Apr, comparatively dry and cool, is the peak travel season. Taj Mahotsav (Feb) is a cultural festival with folk dancing and arts and crafts from across India, plus regional cuisine. Ram Barat (Sep) is a recreation of a royal wedding with elaborate decorations and a huge procession with floats and dancing. Diwali (Oct/Nov, dates vary) is the Hindu festival of light, with fireworks and colorful street illuminations.
+\n\nTransport:\n</string>
+    <string name="jone">* By Train:\n
+There are three railway stations and a number of super fast trains that are connected from the important cities of India to Agra. While the Agra cantonment is the main railway station of the city, Raja-ki-Mandi and Agra Fort are the other railway stations of Agra. You can enjoy a luxurious train tour on Palace on Wheels to the city, while Rajdhani, Shatabdi and Taj Express help you reach Agra in very less time. Agra is a junction between the metropolitan cities of Delhi, Mumbai and Chennai and hence easily accessible via trains.
+\n* By Road:\n
+Get on a road trip to Agra to enjoy pleasant scenic beauty along with a quick journey to Taj Mahal. You have numerous cab services that take you to Agra. You can opt for a personalized tour with a private car and driver to travel to and fro. There are regular bus services available as well that take you to the city. You can board a bus from Delhi, Mathura, Jaipur and Fatehpur Sikri to reach Agra; bus is always the more economical way to reach Taj Mahal than flights and trains.
+\n*By Air:\n
+If you have less time in hand then plan your trip to Agra on flight. Agra has its own airport, which is a military base, located at 12.5 kms from the main city. If you are travelling by air, you can get a direct flight to Agra from New Delhi. Indian airlines have regular flights to the city.
+    </string>
+    <string name="taj_mahal">Taj Mahal</string>
+    <string name="kone">About Varanasi:\n
+Varanasi is a city in the northern Indian state of Uttar Pradesh dating to the 11th century B.C. Regarded as the spiritual capital of India, the city draws Hindu pilgrims who bathe in the Ganges River’s sacred waters and perform funeral rites. Along the city winding streets are some 2,000 temples, including Kashi Vishwanath, the “Golden Temple,” dedicated to the Hindu god Shiva.
+Boat cruises take visitors past the many ghats (steps leading down to the river) on the waterfront, including the Dashashwamedh Ghat to watch the fiery aarti ritual, performed nightly. Manikarnika Ghat is the principal cremation ground of Varanasi, with 24-hour flaming funeral pyres. Another notable ghat is Man Mandir Ghat, topped by a large palace built in 1600. Above the river, the Mughal-style Ramnagar Fort was the palace of the former Maharaja of Varanasi and is now a museum. About 11km north of town, Sarnath, where Buddha gave his first sermon at the site of Dhamekh Stupa, features ancient temples
+\nWhen to visit:\n
+Peak travel season is Nov–May. Mar–May is hot, while Jun–Oct is the humid and rainy monsoon season. Winter (Nov–Mar) is dry and mild, with chilly nights. Key events include Purnima/Vesak (Sarnath, Apr/May, date varies), celebrating Buddha’s birth. Ramlila (Sep–Oct) is a month-long performance of the Hindu epic Ramayana. Ganga Mahotsav (Nov) is a cultural and religious festival held on the banks of the Ganges.</string>
+    <string name="lone">\n\nTransport:\n
+    * By air:\n
+Lal Bahadur Shastri Airport or Varanasi Airport is linked to some prime Indian cities like Mumbai and Delhi. Domestic airlines like Air India and IndiGo operate regular flights from Delhi, Khajuraho, Bangalore, Mumbai and Goa. There are flights available for Kathmandu too. Once you reach the airport, you can hire prepaid taxis to reach the city centre.
+\n* By road:\n
+Varanasi enjoys excellent connectivity by road with cities like Allahabad, Lucknow, Patna, Gorakhpur and Ranchi. A number of state buses and private services including some very comfortable air-conditioned luxury buses ply frequently from Lucknow to Varanasi. Well-maintained national highways, NH 2 and NH 28 (via Harlalka Road), lead to Varanasi from Lucknow, the journey taking around 6 to 7 hours.
+\n* By train:\n
+The Varanasi railway junction and Kashi railway station are the two main railheads in Varanasi. Travellers can make their travel bookings till either of these two stations. Both these railway stations are well linked with prime Indian cities via extensive rail network. From Delhi, there are several trains available for Varanasi, BSB Garibrath originating from Anand Vihar is one of them. Auto rickshaws, autos and rickshaws are easily available from outside these railway stations.
+    </string>
+    <string name="varanasi">Varanasi</string>
+</resources>

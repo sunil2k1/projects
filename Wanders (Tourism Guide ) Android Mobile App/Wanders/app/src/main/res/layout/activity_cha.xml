@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChaActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#DAD6D6"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:background="#2196F3"
+            android:text="@string/chhattisgarh"
+            android:textSize="30sp"
+            android:textStyle="bold">
+        </TextView>
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="448dp"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/maxb" />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="474dp"
+            android:layout_height="300dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/nbv" />
+
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:layout_width="460dp"
+            android:layout_height="250dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/chi" />
+
+        <ImageButton
+            android:id="@+id/imageButton5"
+            android:layout_width="432dp"
+            android:layout_height="251dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/bar" />
+
+        <ImageButton
+            android:id="@+id/imageButton6"
+            android:layout_width="438dp"
+            android:layout_height="236dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/main" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ThekkadyActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="442dp"
+            android:layout_height="244dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/o" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#2196F3"
+            android:text="@string/thekkady"
+            android:adjustViewBounds="true"
+            android:textSize="30sp"
+            android:textStyle="bold">
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:text="@string/e"
+            android:textSize="14sp"
+            android:textStyle="bold">
+        </TextView>
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="442dp"
+            android:layout_height="244dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/p" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:text="@string/f"
+            android:textSize="14sp"
+            android:textStyle="bold">
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:text="@string/the_more_pictures"
+            android:textSize="25sp"
+            android:textStyle="bold|italic">
+
+        </TextView>
+
+        <ImageView
+            android:id="@+id/imageView0"
+            android:layout_width="628dp"
+            android:layout_height="303dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/y" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="472dp"
+            android:layout_height="276dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/r" />
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="442dp"
+            android:layout_height="244dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/i" />
+
+    </LinearLayout>
+</ScrollView>

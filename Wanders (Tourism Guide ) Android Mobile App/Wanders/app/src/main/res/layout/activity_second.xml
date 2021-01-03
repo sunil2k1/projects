@@ -1,0 +1,53 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#DAD6D6"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:background="#2196F3"
+            android:text="@string/union_teritories"
+            android:textSize="30sp"
+            android:textStyle="bold">
+        </TextView>
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="448dp"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/delhi" />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="448dp"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/andhaman" />
+
+        <ImageButton
+            android:id="@+id/imageButton4"
+            android:layout_width="460dp"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/todo"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/apple" />
+
+    </LinearLayout>
+</ScrollView>

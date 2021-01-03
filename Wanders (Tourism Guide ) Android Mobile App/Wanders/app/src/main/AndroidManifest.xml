@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sktudios.wanders">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".BActivity"></activity>
+        <activity android:name=".BihActivity" />
+        <activity android:name=".VaraActivity" />
+        <activity android:name=".TajActivity" />
+        <activity android:name=".UpActivity" />
+        <activity android:name=".GoaActivity" />
+        <activity android:name=".JamuActivity" />
+        <activity android:name=".AndActivity" />
+        <activity android:name=".DelhiActivity" />
+        <activity android:name=".SecondActivity" />
+        <activity android:name=".FrontActivity" />
+        <activity android:name=".ValActivity" />
+        <activity android:name=".PatActivity" />
+        <activity android:name=".NalActivity" />
+        <activity android:name=".BothActivity" />
+        <activity android:name=".BiActivity" />
+        <activity android:name=".VisActivity" />
+        <activity android:name=".VajActivity" />
+        <activity android:name=".ThiActivity" />
+        <activity android:name=".KakActivity" />
+        <activity android:name=".KadActivity" />
+        <activity android:name=".APActivity" />
+        <activity android:name=".UdaActivity" />
+        <activity android:name=".RanActivity" />
+        <activity android:name=".AbuActivity" />
+        <activity android:name=".JodActivity" />
+        <activity android:name=".JaiActivity" />
+        <activity android:name=".RajActivity" />
+        <activity android:name=".MaiActivity" />
+        <activity android:name=".BarActivity" />
+        <activity android:name=".ChiActivity" />
+        <activity android:name=".InActivity" />
+        <activity android:name=".TirActivity" />
+        <activity android:name=".ChaActivity" />
+        <activity android:name=".SunActivity" />
+        <activity android:name=".PuActivity" />
+        <activity android:name=".BhuActivity" />
+        <activity android:name=".OdActivity" />
+        <activity android:name=".KhaActivity" />
+        <activity android:name=".BheActivity" />
+        <activity android:name=".PaActivity" />
+        <activity android:name=".GwaActivity" />
+        <activity android:name=".BandhActivity" />
+        <activity android:name=".MpActivity" />
+        <activity android:name=".MahaActivity" />
+        <activity android:name=".NasikActivity" />
+        <activity android:name=".ElloraActivity" />
+        <activity android:name=".AjanthaActivity" />
+        <activity android:name=".MumbaiActivity" />
+        <activity android:name=".MaActivity" />
+        <activity android:name=".UdActivity" />
+        <activity android:name=".JoActivity" />
+        <activity android:name=".JActivity" />
+        <activity android:name=".BanActivity" />
+        <activity android:name=".MyActivity" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".KarActivity" />
+        <activity android:name=".KovalamActivity" />
+        <activity android:name=".VarkalaActivity" />
+        <activity android:name=".ThekkadyActivity" />
+        <activity android:name=".KummarakotamActivity" />
+        <activity android:name=".MunnarActivity" />
+        <activity android:name=".KeActivity" />
+        <activity android:name=".FirstActivity" />
+        <activity android:name=".TNMEActivity" />
+        <activity android:name=".TNKActivity" />
+        <activity android:name=".TNActivity" />
+        <activity android:name=".TNOActivity" />
+        <activity android:name=".TNTActivity" />
+        <activity android:name=".TNMActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
