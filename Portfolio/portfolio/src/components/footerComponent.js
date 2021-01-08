@@ -17,22 +17,22 @@ function Footer(props) {
           <Row>
             <Col className="d-flex justify-content-center flex-wrap">
               <div >
-                <a href="mailto:santheesh62@gmail.com" target="_blank" rel="noopener noreferrer">
+                <a href="mailto:sunilkpr2k1@gmail.com" target="_blank" rel="noopener noreferrer">
                   <img className="m-2 contact-img" src={GMail} alt="gamil" width="30px" height="30px"/>
                 </a>
               </div>
               <div className="m-2">
-                <a href="https://github.com/santheesh16" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/sunil2k1" target="_blank" rel="noopener noreferrer">
                 <img className="contact-img" src={GitHub} alt="gamil" width="30px" height="30px"/>
                 </a>
               </div>
               <div className="m-2">
-                <a href="https://www.instagram.com/swagy_boyoffi_/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/gsk_sunil007/" target="_blank" rel="noopener noreferrer">
                 <img className="contact-img" src={Insta} alt="gamil" width="30px" height="30px"/>
                 </a>
               </div>
               <div className="m-2">
-                <a href="https://www.linkedin.com/in/santheesh-a-860a7614b/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/sunil-kumar-671a801a4/" target="_blank" rel="noopener noreferrer">
                 <img className="contact-img" src={LinkedIn} alt="gamil" width="30px" height="30px"/>
                 </a>
               </div>

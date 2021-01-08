@@ -1,2 +1,2 @@
-this project was done in 27-02-2020s
+this project was done in 27-02-2020
 this project name is BMI cal (BMI Calculator for android app)
