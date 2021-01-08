@@ -1,9 +1,10 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
+import Button from "react-bootstrap/Button";
 import Nav from "react-bootstrap/Nav";
-import Logo from "../../assets/icons/logow.webp";
+import Logo from "../../assets/icons/logow.png";
 import "./my-navbar.styles.css";
-
+import projects from "../../assets/project.svg"
 const MyNavbar = () => {
   return (
     <div>
@@ -14,20 +15,29 @@ const MyNavbar = () => {
         className="animate-navbar nav-theme justify-content-between"
       >
         <div>
-          <Navbar.Brand href="#home">
-            <img className="logo" src={Logo} alt="" />
+          <Navbar.Brand href="/home">        
+            <Navbar.Collapse id="basic-navbar-nav">
+                 <img className="logo" src={Logo} alt="" />
+                  <Nav.Link href="/home"><span className ="fa fa-home fa-lg"></span> Home</Nav.Link>
+                  <Nav.Link href="/home#about"><span className ="fa fa-info fa-lg"></span> About Me</Nav.Link>
+                  <Nav.Link href="/home"><img className="logos" src={projects}/>Projects</Nav.Link>        
+              </Navbar.Collapse>  
           </Navbar.Brand>
         </div>
         <div>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="mr-auto ">
-              <Nav.Link href="#home">Home</Nav.Link>
-              <Nav.Link href="#about">About</Nav.Link>
-              <Nav.Link href="#skills">Skills</Nav.Link>
-              <Nav.Link href="#experience">Experience</Nav.Link>
-              <Nav.Link href="#projects">Projects</Nav.Link>
-              <Nav.Link href="#contact">Contact</Nav.Link>
+            <Nav className="ml-auto ">            
+             <Nav.Link href="/skills">Skills</Nav.Link>
+              <Nav.Link href="/skills#experience">Experience</Nav.Link>
+              <div>
+                    <a href="https://drive.google.com/file/d/1Snbq3x4Itk_ZN4c8J96aNdp4SunXR08Y/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                      <Button className="m-2" variant="outline-success">
+                       Resume
+                      </Button>
+                    </a>
+                  </div>     
+              
             </Nav>
           </Navbar.Collapse>
         </div>

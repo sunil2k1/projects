@@ -36,7 +36,7 @@ const TitleMessage = () => (
     <div className="titleMessage">
       <div className="heading">
         <div className="main text-center mb-3">
-          Hi, I am
+          Hi, I'm
           <br />
           <span>
             <strong>Sunil Kumar G</strong>
@@ -45,7 +45,7 @@ const TitleMessage = () => (
         <div className="sub">
           <Typewriter
             options={{
-              strings: ["Web Developer", "Coach", "Learner"],
+              strings: ["Web Developer", "Full Stack Developer","Android App Developer","RedHat System Administrator", "Learner"],
               autoStart: true,
               loop: true,
               delay: 50

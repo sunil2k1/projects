@@ -12,6 +12,7 @@ import Experience from "./pages/experience/experience.component";
 import Particles from "react-particles-js";
 import { particlesOptions } from "./particlesOptions";
 import TimeLine from "./components/projects-timeline/projects-timeline.component";
+import Footer from "./components/footerComponent"
 
 
 const App = () => {
@@ -32,11 +33,9 @@ const App = () => {
           strength={-200}
         >
           <div>
-            <Container className="container-box rounded">
               <Fade duration={500}>
                 <About />
               </Fade>
-            </Container>
           </div>
         </Parallax>
       </div>
@@ -61,6 +60,7 @@ const App = () => {
           <TimeLine />
         </Slide>
       </Container>
+      <Footer />
     </div>
     
   );
