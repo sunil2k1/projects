@@ -20,7 +20,7 @@ const MyNavbar = () => {
                  <img className="logo" src={Logo} alt="" />
                   <Nav.Link href="/home"><span className ="fa fa-home fa-lg"></span> Home</Nav.Link>
                   <Nav.Link href="/home#about"><span className ="fa fa-info fa-lg"></span> About Me</Nav.Link>
-                  <Nav.Link href="/home"><img className="logos" src={projects}/>Projects</Nav.Link>        
+                  <Nav.Link href="/Projects"><img className="logos" src={projects}/>Projects</Nav.Link>        
               </Navbar.Collapse>  
           </Navbar.Brand>
         </div>
