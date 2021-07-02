@@ -1,0 +1,14 @@
+<div class="container" 
+  fxLayout="column"
+  fxLayoutGap="10px">
+
+  <mat-list fxFlex>
+    <mat-list-item *ngFor="let dish of dishes"> <!--Structural directives is used to iterate over array of items-->
+      <img matListAvatar src={{dish.image}} alt={{dish.name}}> <!--{{dish.name}} -> Interpolation-->
+      <h1 matLine> {{dish.name}}</h1>
+      <p matLine>
+        <span>{{dish.description}}</span>
+      </p>
+    </mat-list-item>
+  </mat-list>
+</div>
