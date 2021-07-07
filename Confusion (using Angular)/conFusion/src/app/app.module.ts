@@ -6,6 +6,11 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 import { AppComponent } from './app.component';
 import { MatListModule } from '@angular/material';
 import { MatGridListModule } from '@angular/material';
+import { MatFormFieldModule } from '@angular/material';
+import { MatInputModule } from '@angular/material/input'
+import { MatCheckboxModule } from '@angular/material';
+import { FormsModule } from '@angular/forms';
+
 import 'hammerjs';
 import { MenuComponent } from './menu/menu.component';
 
@@ -46,7 +51,11 @@ import { LoginComponent } from './login/login.component';
     MatCardModule,
     MatButtonModule,
     AppRoutingModule,
-    MatDialogModule
+    MatDialogModule,
+    MatFormFieldModule,
+    MatInputModule,
+    MatCheckboxModule,
+    FormsModule
   ],
   providers: [
     DishService,
