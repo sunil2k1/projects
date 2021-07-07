@@ -12,7 +12,7 @@
 
   <div fxFlex>
     <mat-grid-list cols="2" rowHeight="200px">
-      <mat-grid-tile *ngFor="let dish of dishes" (click)="onSelect(dish)"> <!--Structural directives is used to iterate over array of items-->
+      <mat-grid-tile *ngFor="let dish of dishes" [routerLink]="['/dishdetail', dish.id]"> <!--Structural directives is used to iterate over array of items-->
         <img height="200px" src={{dish.image}} alt={{dish.name}}> <!--{{dish.name}} -> Interpolation-->
         <mat-grid-tile-footer>
           <h1 matLine> {{dish.name | uppercase}}</h1>  <!--upppercase is pipe-->
@@ -20,5 +20,4 @@
       </mat-grid-tile>
     </mat-grid-list>
   </div>
-  <app-dishdetail [dish]="selectedDish"></app-dishdetail>
 </div>
